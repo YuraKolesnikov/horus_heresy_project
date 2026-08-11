@@ -2,12 +2,12 @@
 
 Rank: 
 Title: 
-Armour: 
-Weapons: 
 
 ## Appearance
 Helmet:
 Pauldrons:
+Armour: 
+Weapons: 
 Distinctive:
 
 ## Notes

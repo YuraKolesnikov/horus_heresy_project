@@ -2,12 +2,12 @@
 
 Tier: 
 Role: 
-Armour: 
 Composition: 
 
 ## Appearance
 Helmets:
 Pauldrons:
+Armour: 
 Weapons:
 Distinctive:
 

@@ -1,0 +1,13 @@
+# Zso Sahaal
+
+Rank: 
+Title: 
+
+## Appearance
+Helmet:
+Pauldrons:
+Armour: 
+Weapons: 
+Distinctive:
+
+## Notes
