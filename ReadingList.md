@@ -1,0 +1,364 @@
+# Reading List
+
+## Horus Heresy Novels
+- [ ] 1. Horus Rising (Emperor's Children, Sons of Horus)
+- [ ] 2. False Gods (Sons of Horus)
+- [ ] 3. Galaxy in Flames (Emperor's Children, World Eaters, Death Guard, Sons of Horus)
+- [ ] 4. The Flight of the Eisenstein (Emperor's Children, Imperial Fists, Death Guard, Sons of Horus)
+- [ ] 5. Fulgrim (Emperor's Children, Iron Hands)
+- [ ] 6. Descent of Angels (Dark Angels)
+- [ ] 7. Legion (Alpha Legion)
+- [ ] 8. Battle for the Abyss (Ultramarines)
+- [ ] 9. Mechanicum (Imperial Fists, Mechanicum)
+- [ ] 10. Tales of Heresy
+  - [ ] 10.1 Blood Games (Custodes)
+  - [ ] 10.2. Wolf at the Door (Space Wolves)
+  - [ ] 10.3. Scions of the Storm (Word Bearers)
+  - [ ] 10.4. The Voice (Sisters of Silence)
+  - [ ] 10.5. Call of the Lion (Dark Angels)
+  - [ ] 10.6. The Last Church
+  - [ ] 10.7. After Desh'ea (World Eaters)
+- [ ] 11. Fallen Angels (Dark Angels)
+- [ ] 12. A Thousand Sons (Thousand Sons)
+- [ ] 13. Nemesis (Imperial Fists, Sons of Horus, Word Bearers)
+- [ ] 14. The First Heretic (Word Bearers)
+- [ ] 15. Prospero Burns (Space Wolves, Thousand Sons)
+- [ ] 16. Age of Darkness
+  - [ ] 16.1. Rules of Engagement (Ultramarines)
+  - [ ] 16.2. Liar's Due (Alpha Legion)
+  - [ ] 16.3. Forgotten Sons (Salamanders)
+  - [ ] 16.4. The Last Remembrancer (Imperial Fists)
+  - [ ] 16.5. Rebirth (World Eaters, Thousand Sons)
+  - [ ] 16.6. The Face of Treachery (World Eaters, Raven Guard)
+  - [ ] 16.7. Little Horus (White Scars, Sons of Horus)
+  - [ ] 16.8. The Iron Within (Iron Warriors)
+  - [ ] 16.9. Savage Weapons (Dark Angels, Night Lords)
+- [ ] 17. The Outcast Dead (Emperor's Children, World Eaters, Death Guard, Thousand Sons)
+- [ ] 18. Deliverance Lost (Raven Guard)
+- [ ] 19. Know No Fear (Ultramarines, Word Bearers)
+- [ ] 20. The Primarchs
+  - [ ] 20.1. The Reflection Crack'd (Emperor's Children)
+  - [ ] 20.2. Feat of Iron (Iron Hands)
+  - [ ] 20.3 The Lion (Dark Angels)
+  - [ ] 20.4. The Serpent Beneath (Alpha Legion)
+- [ ] 21. Fear to Tread (Space Wolves, Blood Angels, Word Bearers)
+- [ ] 22. Shadows of Treachery
+  - [ ] 22.1. The Crimson Fist (Iron Warriors, Imperial Fists)
+  - [ ] 22.2. The Dark King (Imperial Fists, Night Lords)
+  - [ ] 22.3. The Lightning Tower (Imperial Fists)
+  - [ ] 22.4. The Kaban Project (Mechanicum)
+  - [ ] 22.5. Raven's Flight (Raven guard)
+  - [ ] 22.6. Death of a Silversmith (Sons of Horus)
+  - [ ] 22.7. Prince of Crows (Night Lords)
+- [ ] 23. Angel Exterminatus (Emperor's Children, Imperial Fists, Iron Warriors, Iron Hands)
+- [ ] 24. Betrayer (World Eaters, Ultramarines, Word Bearers)
+- [ ] 25. Mark of Calth (Ultramarines, Word Bearers)
+  - [ ] 25.1. The Shards of Erebus
+  - [ ] 25.2. Calth That Was
+  - [ ] 25.3. Dark Heart
+  - [ ] 25.4. The Traveller
+  - [ ] 25.5. A Deeper Darkness
+  - [ ] 25.6. The Underworld War
+  - [ ] 25.7. Athame
+  - [ ] 25.8. Unmarked
+- [ ] 26. Vulkan Lives (Night Lords, Iron Hands, Word Bearers, Salamanders, Raven Guard)
+- [ ] 27. The Unremembered Empire (Dark Angels, Iron Warriors, White Scars, Space Wolves, Blood Angels, Ultramarines)
+- [ ] 28. Scars (White Scars, Alpha Legion)
+- [ ] 29. Vengeful Spirit (White Scars, Blood Angels, Ultramarines, Death Guard, Sons of Horus)
+- [ ] 30. The Damnation of Pythos (Iron Hands)
+- [ ] 31. Legacies of Betrayal
+  - [ ] 31.1. Brotherhood of the Storm (White Scars, Sons of Horus)
+  - [ ] 31.2. Serpent
+  - [ ] 31.3. Hunter's Moon (Space Wolves, Alpha Legion)
+  - [ ] 31.4. Veritas Ferrum (Iron Hands, Alpha Legion)
+  - [ ] 31.5. Riven (Iron Hands)
+  - [ ] 31.6. Strike and Fade (Salamanders)
+  - [ ] 31.7. Honour to the Dead (Ultramarines, Titanica)
+  - [ ] 31.8. Butcher's Nails (World Eaters)
+  - [ ] 31.9. Warmaster (Sons of Horus)
+  - [ ] 31.10. Kryptos (Iron Hands, Raven Guard)
+  - [ ] 31.11. Wolf's Claw (Space Wolves, Alpha Legion)
+  - [ ] 31.12. Thief of Revelations (Thousand Sons)
+  - [ ] 31.13. The Divine Word (Raven Guard)
+  - [ ] 31.14. Lucius: The Eternal Blademaster
+  - [ ] 31.15. Kharn: The Eightfold Path (World Eaters)
+  - [ ] 31.16. Cypher: Guardian of Order (Dark Angels)
+  - [ ] 31.17. Heart of the Conqueror (World Eaters)
+  - [ ] 31.18. Censure (Ultramarines, Word Bearers)
+  - [ ] 31.19. Bjorn: Lone Wolf (Space Wolves)
+- [ ] 32. Deathfire (Ultramarines, Death Guard, Word Bearers, Salamanders)
+- [ ] 33. War Without End
+  - [ ] 33.1. The Devine Adoratrice (Sons of Horus)
+  - [ ] 33.2. Howl of the Hearthworld (Space Wolves)
+  - [ ] 33.3. Lord of the Red Sands (World Eaters)
+  - [ ] 33.4. Artefacts (Salamanders)
+  - [ ] 33.5. Hands of the Emperor (Imperial Fists)
+  - [ ] 33.6. The Phoenician (Emperor's Children)
+  - [ ] 33.7. Sermon of Exodus (Unknown)
+  - [ ] 33.8. By the Lion's Command (Dark Angels)
+  - [ ] 33.9. The Harrowing (Alpha Legion)
+  - [ ] 33.10. All That Remains
+  - [ ] 33.11. Gunsight (Sons of Horus)
+  - [ ] 33.12. Allegiance (Thousand Sons)
+  - [ ] 33.13. Daemonology (Death Guard)
+  - [ ] 33.14. Black Oculus (Iron Warriors)
+  - [ ] 33.15. Virtues of the Sons (Blood Angels)
+  - [ ] 33.16. The Laurel of Defiance (Ultramarines)
+  - [ ] 33.17. A Safe and Shadowed Place (Night Lords)
+  - [ ] 33.18. Imperfect (Emperor's Children)
+  - [ ] 33.19. Chirurgeon (Emperor's Children)
+  - [ ] 33.20. Twisted (Sons of Horus)
+  - [ ] 33.21. Wolf Mother
+- [ ] 34. Pharos (Dark Angels, Iron Warriors, Imperial Fists, Night Lords, Blood Angels, Ultramarines)
+- [ ] 35. Eye of Terra
+  - [ ] 35.1. The Wolf of Ash and Fire (Sons of Horus)
+  - [ ] 35.2. Aurelian (Word Bearers)
+  - [ ] 35.3. The Long Night (Night Lords)
+  - [ ] 35.4. Massacre (Night Lords)
+  - [ ] 35.5. Brotherhood of the Moon (White Scars)
+  - [ ] 35.6. Inheritor (Word Bearers)
+  - [ ] 35.7. Vorax (Mechanicum)
+  - [ ] 35.8. Ironfire (Iron Warriors)
+  - [ ] 35.9. Red-Marked (Ultramarines)
+  - [ ] 35.10. Master of the First (Dark Angels)
+  - [ ] 35.11. Stratagem (Ultramarines)
+  - [ ] 35.12. Sins of the Father (Blood Angels)
+  - [ ] 35.13. Herald of Sanguinius (Blood Angels)
+  - [ ] 35.14. The Eagle's Talon (Iron Warriors, Imperial Fists)
+  - [ ] 35.15. Iron Corpses (Iron Warriors, Imperial Fists)
+  - [ ] 35.16. The Final Compliance of Sixty-Three Fourteen
+- [ ] 36. The Path of Heaven (Emperor's Children, White Scars)
+- [ ] 37. The Silent War
+  - [ ] 37.1. The Watcher (Space Wolves, Blood Angels (Knight-Errant))
+  - [ ] 37.2. Child of Night (Night Lords)
+  - [ ] 37.3. Grey Angel (Dark Angels, Knights-Errant)
+  - [ ] 37.4. Templar (Imperial Fists)
+  - [ ] 37.5. The Gates of Terra (Ultramarines)
+  - [ ] 37.6. Luna Mendax (Knight-Errant)
+  - [ ] 37.7. Wolf Hunt (Knight-Errant)
+  - [ ] 37.8. The Purge (Imperial Fists, Ultramarines, Word Bearers)
+  - [ ] 37.9. Army of One
+  - [ ] 37.10. Distant Echoes of Old Night (Space Wolves, Death Guard)
+  - [ ] 37.11. Ghosts Speak Not (Death Guard, Knight-Errant)
+  - [ ] 37.12. Lost Sons (Blood Angels)
+  - [ ] 37.13. Patience (Death Guard, Knight-Errant)
+  - [ ] 37.14. The Sigillite
+- [ ] 38. Angels of Caliban (Dark Angels, Ultramarines, Sons of Horus)
+- [ ] 39. Praetorian of Dorn (Imperial Fists, Alpha Legion)
+- [ ] 40. Corax (Raven Guard)
+- [ ] 41. The Master of Mankind (Custodes, Sisters of Silence, Mechanicum)
+- [ ] 42. Garro (World Eaters, Ultramarines, Death Guard, Knight-Errant)
+  - [ ] 42.1. Garro: Oath of Moment
+  - [ ] 42.2. Garro: Sword of Truth
+  - [ ] 42.3. Garro: Legion of One
+  - [ ] 42.4. Garro: Shield of Lies
+  - [ ] 42.5. Burden of Duty
+  - [ ] 42.6. Garro: Ashes of Fealty
+  - [ ] 42.7. Garro: Vow of Faith
+- [ ] 43. Shattered Legions
+- [ ] 44. The Crimson King (Space Wolves, Thousand Sons)
+- [ ] 45. Tallarn (Iron Warriors, Sons of Horus)
+  - [ ] 45.1. Tallarn: Witness
+  - [ ] 45.2. Tallarn: Executioner
+  - [ ] 45.3. Tallarn: Siren
+  - [ ] 45.4. Tallarn: Ironclad
+- [ ] 46. Ruinstorm (Ultramarines, Blood Angels, Dark Angels, Iron Hands, Sons of Horus, Word Bearers)
+- [ ] 47. Old Earth (Imperial Fists, Iron Hands, Sons of Horus, Word Bearers, Salamanders, Raven Guard)
+- [ ] 48. The Burden of Loyalty
+  - [ ] 48.1. The Thirteenth Wolf (Space Wolves)
+  - [ ] 48.2. Into Exile (Mechanicum)
+  - [ ] 48.3. Cybernetica (Raven Guard)
+  - [ ] 48.4. Ordo Sinister (Titanica)
+  - [ ] 48.5. The Hearth of the Pharos (Ultramarines)
+  - [ ] 48.6. Wolf King (Space Wolves)
+  - [ ] 48.7. The Binary Succession (Mechanicum)
+  - [ ] 48.8. Perpetual
+- [ ] 49. Wolfsbane (Space Wolves)
+- [ ] 50. Born of Flame
+  - [ ] 50.1. Promethean Sun (Salamanders)
+  - [ ] 50.2. Scorched Earth (Iron Hands, Salamanders, Raven Guard)
+  - [ ] 50.3. Artefacts (Salamanders)
+  - [ ] 50.4. Immortal Duty (Iron Hands)
+  - [ ] 50.5. Sons of the Forge (Salamanders, Sons of Horus)
+- [ ] 51. Slaves to Darkness (Emperor's Children, Iron Warriors, World Eaters, Death Guard, Thousand Sons, Sons of Horus, Word Bearers, Alpha Legion)
+- [ ] 52. Heralds of the Siege
+  - [ ] 52.1. Myriad (Mechanicum)
+  - [ ] 52.2. The Grey Raven (Raven Guard)
+  - [ ] 52.3. Valerius (Raven Guard)
+  - [ ] 52.4. The Ember Wolves (Knights)
+  - [ ] 52.5. Blackshield (Death Guard)
+  - [ ] 52.6. Children of Sicarus (Word Bearers)
+  - [ ] 52.7. Exocytosis (Death Guard)
+  - [ ] 52.8. The Painted Count (Night Lords)
+  - [ ] 52.9. The Last Son of Prospero (Thousand Sons)
+  - [ ] 52.10. The Soul, Severed (Emperor's Children)
+  - [ ] 52.11. Dark Compliance (Mechanicum)
+  - [ ] 52.12. Duty Waits (Imperial Fists)
+  - [ ] 52.13. Magisterium (Custodes)
+  - [ ] 52.14. Now Peals Midnight (Imperial Fists)
+  - [ ] 52.15. Dreams of Unity (Unification Wars)
+  - [ ] 52.16. The Board is Set
+- [ ] 53. Titandeath (Blood Angels, White Scars, Word Bearers, Titanica)
+- [ ] 54. The Buried Dagger (Death Guard, Knight-Errant)
+
+## Siege of Terra
+- [ ] 1. The Solar War
+- [ ] 2. The Lost and the Damned
+- [ ] 3. The First Wall
+- [ ] 4. Sons of the Selenar
+- [ ] 5. Saturnine
+- [ ] 6. The Fury of Magnus
+- [ ] 7. Mortis
+- [ ] 8. Warhawk
+- [ ] 9. Echoes of Eternity
+- [ ] 10. Garro: Knight of Grey
+- [ ] 11. The End and the Death: Volume I
+- [ ] 12. The End and the Death: Volume II
+- [ ] 13. The End and the Death: Volume III
+- [ ] 14. Era of Ruin
+  - [ ] 14.1. Angels of Another Age
+  - [ ] 14.2. Fulgurite (Word Bearers)
+  - [ ] 14.3. Fragments (All We Have Left)
+  - [ ] 14.4. Ex Libris
+  - [ ] 14.5. System Purge
+  - [ ] 14.6. After the Dawn, the Darkness
+  - [ ] 14.7. Homebound
+  - [ ] 14.8. The Carrion Lord of the Imperium
+
+## The Scouring
+- [ ] 1. Ashes of the Imperium (Iron Warriors, Imperial Fists, Ultramarines, Sons of Horus, Word Bearers)
+
+## The Primarchs
+- [ ] 1. Roboute Guilliman: Lord of Ultramar (Ultramarines)
+- [ ] 2. Leman Russ: The Great Wolf (Space Wolves)
+- [ ] 3. Magnus the Red: Master of Prospero (Thousand Sons)
+- [ ] 4. Perturabo: The Hammer of Olympia (Iron Warriors)
+- [ ] 5. Lorgar: Bearer of the Word (Word Bearers)
+- [ ] 6. Fulgrim: The Palatine Phoenix (Emperor's Children)
+- [ ] 7. Ferrus Manus: The Gorgon of Medusa (Iron Hands)
+- [ ] 8. Jaghatai Khan: Warhawk of Chogoris (White Scars)
+- [ ] 9. Vulkan: Lord of Drakes (Salamanders)
+- [ ] 10. Corax: Lord of Shadows (Raven Guard)
+- [ ] 11. Angron: Slave of Nuceria (World Eaters)
+- [ ] 12. Konrad Curze: The Night Haunter (Night Lords)
+- [ ] 13. Lion El'Jonson: Lord of the First (Dark Angels)
+- [ ] 14. Alpharius: Head of the Hydra (Alpha Legion)
+- [ ] 15. Mortarion: The Pale King (Death Guard)
+- [ ] 16. Rogal Dorn: The Emperor's Crusader (Imperial Fists)
+- [ ] 17. Sanguinius: The Great Angel (Blood Angels)
+
+## Anthologies
+- [ ] 1. Sons of the Emperor
+  - [ ] 1.1. The Passing of Angels (Blood Angels)
+  - [ ] 1.2. The Abyssal Edge (Night Lords)
+  - [ ] 1.3. Mercy of the Dragon (Salamanders)
+  - [ ] 1.4. Shadow of the Past (Word Bearers)
+  - [ ] 1.5. The Emperor's Architect (Iron Warriors)
+  - [ ] 1.6. Prince of Blood (World Eaters)
+  - [ ] 1.7. The Ancient Awaits (Emperor's Children)
+  - [ ] 1.8. Misbegotten (Sons of Horus)
+- [ ] 2. Scions of the Emperor
+  - [ ] 2.1. Canticle (Iron Hands)
+  - [ ] 2.2. The Verdict of the Scythe (Death Guard)
+  - [ ] 2.3. A Game of Opposites (White Scars)
+  - [ ] 2.4. Better Angels (Blood Angels)
+  - [ ] 2.5. The Conqueror's Truth (Night Lords)
+  - [ ] 2.6. The Sinew of War (Ultramarines)
+  - [ ] 2.7. The Chamber at the End of Memory (Imperial Fists)
+  - [ ] 2.8. First Legion (Dark Angels)
+- [ ] 3. Blood of the Emperor
+  - [ ] 3.1. Lupus Daemonis
+  - [ ] 3.2. Skjalds
+  - [ ] 3.3. The Sixth Cult of the Denied
+  - [ ] 3.4. The Will of the Legion (Imperial Fists)
+  - [ ] 3.5. Council of Truth
+  - [ ] 3.6. Terminus
+- [ ] 4. Traitorous Scions
+  - [ ] 4.1. Child of Chaos (Word Bearers)
+  - [ ] 4.2. Grandfather's Gift (Death Guard)
+  - [ ] 4.3. Lantern's Light (Death Guard)
+- [ ] 5. Meduson (Iron Hands)
+  - [ ] 6.1. Meduson (Iron Hands)
+  - [ ] 6.2. Unforged (Salamanders)
+  - [ ] 6.3. Immortal Duty (Iron Hands)
+  - [ ] 6.4. Grey Talon (White Scars, Iron Hands)
+  - [ ] 6.5. The Keys of Hel (Iron Hands)
+  - [ ] 6.6. The Noose (Emperor's Children, Iron Hands)
+  - [ ] 6.7. Deeds Endure (Iron Hands, World Eaters, Salamanders)
+  - [ ] 6.8. Unspoken (Salamanders)
+  - [ ] 6.9. The Either (Iron Hands, Sons of Horus)
+- [ ] 6. Cthonia's Reckoning (Imperial Fists, Sons of Horus)
+  - [ ] 6.1. Sons of Cthonia
+  - [ ] 6.2. To the Last
+  - [ ] 6.3. The Gangs Beneath
+  - [ ] 6.4. The Flesh Harvest
+  - [ ] 6.5. Traitor's Faith
+  - [ ] 6.6. For Hate's Sake
+  - [ ] 6.7. Postulant
+
+## Short Stories
+- [ ] 1. The Atonement of Fire (Ultramarines)
+- [ ] 2. A Lesson in Iron (Iron Hands)
+- [ ] 3. Ghost of Nuceria (World Eaters)
+- [ ] 4. The Passing of Angels (Blood Angels)
+- [ ] 5. Embers of Extinction (Iron Warriors)
+- [ ] 6. Restorer (White Scars)
+- [ ] 7. A Rose Watered with Blood (World Eaters)
+- [ ] 8. It Bleeds (World Eaters)
+
+## Audio Dramas
+- [ ] 1. Perturabo: Stone and Iron (Iron Warriors)
+- [ ] 2. Malcador: First Lord of the Imperium
+- [ ] 3. Konrad Curze: A Lesson in Darkness (Night Lords)
+- [ ] 4. The Lords of Terra
+- [ ] 5. Illyrium (Ultramarines)
+- [ ] 6. The Revelation of the Word (Word Bearers)
+- [ ] 7. Morningstar (Thousand Sons)
+- [ ] 8. Nightfane (Ultramarines)
+
+## Characters Novels
+- [ ] 1. Valdor: Birth of the Imperium (Unification Wars)
+- [ ] 2. Luther: First of the Fallen (Dark Angels)
+- [ ] 3. Sigismund: The Eternal Crusader (Imperial Fists)
+- [ ] 4. Eidolon: The Auric Hammer (Emperor's Children)
+- [ ] 5. Zardu Layak: The Crimson Apostle (Word Bearers)
+- [ ] 6. Raldoron: Revenant (Blood Angels)
+
+## Official Novellas
+- [ ] 1. Corax: Soulforge (Raven Guard)
+- [ ] 2. Ravenlord (Raven Guard)
+- [ ] 3. The Seventh Serpent (Iron Hands, Alpha Legion)
+- [ ] 4. The Honoured (Ultramarines, Word Bearers)
+- [ ] 5. The Unburdened (Ultramarines, Word Bearers)
+- [ ] 6. Spear of Ultramar (Ultramarines)
+
+## Other
+- [ ] 1. Angron (World Eaters)
+- [ ] 2. Dropsite Massacre (Emperor's Children, Iron Warriors, Night Lords, Iron Hands, World Eaters, Sons of Horus, Word Bearers, Salamanders, Raven Guard, Alpha Legion)
+- [ ] 3. Macragge's Honour (Ultramarines, Word Bearers)
+
+#### 1. Dark Angels
+- [ ] 2. Dreadwing (Legion)
+
+#### 3. Emperor's Children
+- [ ] 1. Amor Fati (Legion)
+
+#### 7. Imperial Fists
+- [ ] 1. Champion of Oaths (Legion)
+
+#### 8. Night Lords
+- [ ] 2. Eater of Dreams (Legion)
+
+#### 9. Iron Hands
+- [ ] 2. Bringer of Sorrow (Legion)
+
+#### 15. Thousand Sons
+- [ ] 2. Ashes of Prospero (Legion)
+- [ ] 3. Battle of the Fang (Legion)
+
+#### 19. Raven Guard
+- [ ] 1. The Value of Fear (Legion)
+- [ ] 2. Alone (Unknown)
+
+#### Legio Custodes
+- [ ] 1. Two Metaphysical Blades
