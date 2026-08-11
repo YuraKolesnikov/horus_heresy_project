@@ -352,10 +352,6 @@
 #### 9. Iron Hands
 - [ ] 2. Bringer of Sorrow (Legion)
 
-#### 15. Thousand Sons
-- [ ] 2. Ashes of Prospero (Legion)
-- [ ] 3. Battle of the Fang (Legion)
-
 #### 19. Raven Guard
 - [ ] 1. The Value of Fear (Legion)
 - [ ] 2. Alone (Unknown)
