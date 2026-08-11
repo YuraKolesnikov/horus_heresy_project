@@ -13,7 +13,7 @@
 - [ ] 10. Tales of Heresy
   - [ ] 10.1 Blood Games (Custodes)
   - [ ] 10.2. Wolf at the Door (Space Wolves)
-  - [ ] 10.3. Scions of the Storm (Word Bearers)
+  - [x] 10.3. Scions of the Storm (Word Bearers)
   - [ ] 10.4. The Voice (Sisters of Silence)
   - [ ] 10.5. Call of the Lion (Dark Angels)
   - [ ] 10.6. The Last Church
@@ -21,7 +21,7 @@
 - [ ] 11. Fallen Angels (Dark Angels)
 - [ ] 12. A Thousand Sons (Thousand Sons)
 - [ ] 13. Nemesis (Imperial Fists, Sons of Horus, Word Bearers)
-- [ ] 14. The First Heretic (Word Bearers)
+- [x] 14. The First Heretic (Word Bearers)
 - [ ] 15. Prospero Burns (Space Wolves, Thousand Sons)
 - [ ] 16. Age of Darkness
   - [ ] 16.1. Rules of Engagement (Ultramarines)
@@ -112,7 +112,7 @@
 - [ ] 34. Pharos (Dark Angels, Iron Warriors, Imperial Fists, Night Lords, Blood Angels, Ultramarines)
 - [ ] 35. Eye of Terra
   - [ ] 35.1. The Wolf of Ash and Fire (Sons of Horus)
-  - [ ] 35.2. Aurelian (Word Bearers)
+  - [x] 35.2. Aurelian (Word Bearers)
   - [ ] 35.3. The Long Night (Night Lords)
   - [ ] 35.4. Massacre (Night Lords)
   - [ ] 35.5. Brotherhood of the Moon (White Scars)
@@ -209,7 +209,7 @@
 - [ ] 57. Leman Russ: The Great Wolf (Space Wolves)
 - [ ] 58. Magnus the Red: Master of Prospero (Thousand Sons)
 - [ ] 59. Perturabo: The Hammer of Olympia (Iron Warriors)
-- [ ] 60. Lorgar: Bearer of the Word (Word Bearers)
+- [x] 60. Lorgar: Bearer of the Word (Word Bearers)
 - [ ] 61. Fulgrim: The Palatine Phoenix (Emperor's Children)
 - [ ] 62. Ferrus Manus: The Gorgon of Medusa (Iron Hands)
 - [ ] 63. Jaghatai Khan: Warhawk of Chogoris (White Scars)
