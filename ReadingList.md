@@ -169,7 +169,7 @@
   - [ ] 48.2. Into Exile (Mechanicum)
   - [ ] 48.3. Cybernetica (Raven Guard)
   - [ ] 48.4. Ordo Sinister (Titanica)
-  - [ ] 48.5. The Hearth of the Pharos (Ultramarines)
+  - [ ] 48.5. The Heart of the Pharos (Ultramarines)
   - [ ] 48.6. Wolf King (Space Wolves)
   - [ ] 48.7. The Binary Succession (Mechanicum)
   - [ ] 48.8. Perpetual
@@ -187,7 +187,7 @@
   - [ ] 52.3. Valerius (Raven Guard)
   - [ ] 52.4. The Ember Wolves (Knights)
   - [ ] 52.5. Blackshield (Death Guard)
-  - [ ] 52.6. Children of Sicarus (Word Bearers)
+  - [x] 52.6. Children of Sicarus (Word Bearers)
   - [ ] 52.7. Exocytosis (Death Guard)
   - [ ] 52.8. The Painted Count (Night Lords)
   - [ ] 52.9. The Last Son of Prospero (Thousand Sons)
@@ -250,7 +250,7 @@
   - [ ] 75.5. Council of Truth
   - [ ] 75.6. Terminus
 - [ ] 76. Traitorous Scions
-  - [ ] 76.1. Child of Chaos (Word Bearers)
+  - [x] 76.1. Child of Chaos (Word Bearers)
   - [ ] 76.2. Grandfather's Gift (Death Guard)
   - [ ] 76.3. Lantern's Light (Death Guard)
 - [ ] 77. Meduson (Iron Hands)
@@ -263,98 +263,99 @@
   - [ ] 77.7. Deeds Endure (Iron Hands, World Eaters, Salamanders)
   - [ ] 77.8. Unspoken (Salamanders)
   - [ ] 77.9. The Either (Iron Hands, Sons of Horus)
-- [ ] 78. Cthonia's Reckoning (Imperial Fists, Sons of Horus)
-  - [ ] 78.1. Sons of Cthonia
-  - [ ] 78.2. To the Last
-  - [ ] 78.3. The Gangs Beneath
-  - [ ] 78.4. The Flesh Harvest
-  - [ ] 78.5. Traitor's Faith
-  - [ ] 78.6. For Hate's Sake
-  - [ ] 78.7. Postulant
+- [ ] 78. Lupercal's War
+  - [ ] 78.1. Bloodhowl
+  - [ ] 78.2. Champion of Oaths
+- [ ] 79. Cthonia's Reckoning (Imperial Fists, Sons of Horus)
+  - [ ] 79.1. Sons of Cthonia
+  - [ ] 79.2. To the Last
+  - [ ] 79.3. The Gangs Beneath
+  - [ ] 79.4. The Flesh Harvest
+  - [ ] 79.5. Traitor's Faith
+  - [ ] 79.6. For Hate's Sake
+  - [ ] 79.7. Postulant
 
-## Short Stories
-- [ ] 79. The Atonement of Fire (Ultramarines)
-- [ ] 80. A Lesson in Iron (Iron Hands)
-- [ ] 81. Ghost of Nuceria (World Eaters)
-- [ ] 82. The Passing of Angels (Blood Angels)
-- [ ] 83. Embers of Extinction (Iron Warriors)
-- [ ] 84. Restorer (White Scars)
-- [ ] 85. A Rose Watered with Blood (World Eaters)
-- [ ] 86. It Bleeds (World Eaters)
-
-## Audio Dramas
-- [ ] 87. Perturabo: Stone and Iron (Iron Warriors)
-- [ ] 88. Malcador: First Lord of the Imperium
-- [ ] 89. Konrad Curze: A Lesson in Darkness (Night Lords)
-- [ ] 90. The Lords of Terra
-- [ ] 91. Illyrium (Ultramarines)
-- [ ] 92. The Revelation of the Word (Word Bearers)
-- [ ] 93. Morningstar (Thousand Sons)
-- [ ] 94. Nightfane (Ultramarines)
-
-## Characters Novels
-- [ ] 95. Valdor: Birth of the Imperium (Unification Wars)
-- [ ] 96. Luther: First of the Fallen (Dark Angels)
-- [ ] 97. Sigismund: The Eternal Crusader (Imperial Fists)
-- [ ] 98. Eidolon: The Auric Hammer (Emperor's Children)
-- [ ] 99. Zardu Layak: The Crimson Apostle (Word Bearers)
-- [ ] 100. Raldoron: Revenant (Blood Angels)
+## Character Novels
+- [ ] 80. Valdor: Birth of the Imperium (Unification Wars)
+- [ ] 81. Luther: First of the Fallen (Dark Angels)
+- [ ] 82. Sigismund: The Eternal Crusader (Imperial Fists)
+- [ ] 83. Eidolon: The Auric Hammer (Emperor's Children)
+- [ ] 84. Zardu Layak: The Crimson Apostle (Word Bearers)
+- [ ] 85. Raldoron: Revenant (Blood Angels)
 
 ## Official Novellas
-- [ ] 101. Corax: Soulforge (Raven Guard)
-- [ ] 102. Ravenlord (Raven Guard)
-- [ ] 103. The Seventh Serpent (Iron Hands, Alpha Legion)
-- [ ] 104. The Honoured (Ultramarines, Word Bearers)
-- [ ] 105. The Unburdened (Ultramarines, Word Bearers)
-- [ ] 106. Spear of Ultramar (Ultramarines)
+- [ ] 86. The Honoured (Ultramarines, Word Bearers)
+- [ ] 87. The Unburdened (Ultramarines, Word Bearers)
+- [ ] 88. Dreadwing (Dark Angels)
+- [ ] 89. Spear of Ultramar (Ultramarines)
+- [ ] 90. Dropsite Massacre (Emperor's Children, Iron Warriors, Night Lords, Iron Hands, World Eaters, Sons of Horus, Word Bearers, Salamanders, Raven Guard, Alpha Legion)
+- [ ] 91. The Seventh Serpent (Iron Hands, Alpha Legion)
 
-## Other
-- [ ] 107. Angron (World Eaters)
-- [ ] 108. Dropsite Massacre (Emperor's Children, Iron Warriors, Night Lords, Iron Hands, World Eaters, Sons of Horus, Word Bearers, Salamanders, Raven Guard, Alpha Legion)
-- [ ] 109. Macragge's Honour (Ultramarines, Word Bearers)
+## Short Stories
+- [ ] 92. The Atonement of Fire (Ultramarines)
+- [ ] 93. A Lesson in Iron (Iron Hands)
+- [ ] 94. Ghost of Nuceria (World Eaters)
+- [ ] 95. Embers of Extinction (Iron Warriors)
+- [ ] 96. Restorer (White Scars)
+- [ ] 97. A Rose Watered with Blood (World Eaters)
+- [ ] 98. It Bleeds (World Eaters)
+- [ ] 99. Amor Fati (Emperor's Children)
+- [ ] 100. Eater of Dreams
+- [ ] 101. Bringer of Sorrow
+- [ ] 102. Prologue to Nikaea
+- [ ] 103. Abyssal
+- [ ] 104. Old Wounds, New Scars
+- [ ] 105. Anathema
+- [ ] 106. The Fields of Abundance
+- [ ] 107. The Last Council
+- [ ] 108. The Last Loyalist
+- [ ] 109. The Lighting Hall
+- [ ] 110. The Nine
+- [ ] 111. The Serpent's Dance
+- [ ] 112. The Shel'tain Affair
+- [ ] 113. Visage
+- [ ] 114. Two Metaphysical Blades
+- [ ] 115. Primacy
+- [ ] 116. Alone
 
-#### 1. Dark Angels
-- [ ] 110. Dreadwing (Legion)
+## Graphic Novellas
+- [ ] 117. Macragge's Honour
 
-#### 3. Emperor's Children
-- [ ] 111. Amor Fati (Legion)
-
-#### 7. Imperial Fists
-- [ ] 112. Champion of Oaths (Legion)
-
-#### 8. Night Lords
-- [ ] 113. Eater of Dreams (Legion)
-
-#### 9. Iron Hands
-- [ ] 114. Bringer of Sorrow (Legion)
-
-#### 19. Raven Guard
-- [ ] 115. The Value of Fear (Legion)
-- [ ] 116. Alone (Unknown)
-
-#### Legio Custodes
-- [ ] 117. Two Metaphysical Blades
+## Audio Dramas
+- [ ] 118. Perturabo: Stone and Iron (Iron Warriors)
+- [ ] 119. Malcador: First Lord of the Imperium
+- [ ] 120. Konrad Curze: A Lesson in Darkness (Night Lords)
+- [ ] 121. The Lords of Terra
+- [ ] 122. Illyrium (Ultramarines)
+- [ ] 123. The Revelation of the Word (Word Bearers)
+- [ ] 124. Morningstar (Thousand Sons)
+- [ ] 125. Raptor
+- [ ] 126. Blackshields: The False War
+- [ ] 127. Blackshields: The Red Fief
+- [ ] 128. Hubris of Monarchia
+- [ ] 129. Nightfane (Ultramarines)
+- [ ] 130. Blackshields: The Broken Chain
 
 ## Siege of Terra
-- [ ] 118. The Solar War
-- [ ] 119. The Lost and the Damned
-- [ ] 120. The First Wall
-- [ ] 121. Sons of the Selenar
-- [ ] 122. Saturnine
-- [ ] 123. The Fury of Magnus
-- [ ] 124. Mortis
-- [ ] 125. Warhawk
-- [ ] 126. Echoes of Eternity
-- [ ] 127. Garro: Knight of Grey
-- [ ] 128. The End and the Death: Volume I
-- [ ] 129. The End and the Death: Volume II
-- [ ] 130. The End and the Death: Volume III
-- [ ] 131. Era of Ruin
-  - [ ] 131.1. Angels of Another Age
-  - [ ] 131.2. Fulgurite (Word Bearers)
-  - [ ] 131.3. Fragments (All We Have Left)
-  - [ ] 131.4. Ex Libris
-  - [ ] 131.5. System Purge
-  - [ ] 131.6. After the Dawn, the Darkness
-  - [ ] 131.7. Homebound
-  - [ ] 131.8. The Carrion Lord of the Imperium
+- [ ] 131. The Solar War
+- [ ] 132. The Lost and the Damned
+- [ ] 133. The First Wall
+- [ ] 134. Sons of the Selenar
+- [ ] 135. Saturnine
+- [ ] 136. The Fury of Magnus
+- [ ] 137. Mortis
+- [ ] 138. Warhawk
+- [ ] 139. Echoes of Eternity
+- [ ] 140. Garro: Knight of Grey
+- [ ] 141. The End and the Death: Volume I
+- [ ] 142. The End and the Death: Volume II
+- [ ] 143. The End and the Death: Volume III
+- [ ] 144. Era of Ruin
+  - [ ] 144.1. Angels of Another Age
+  - [ ] 144.2. Fulgurite (Word Bearers)
+  - [ ] 144.3. Fragments (All We Have Left)
+  - [ ] 144.4. Ex Libris
+  - [ ] 144.5. System Purge
+  - [ ] 144.6. After the Dawn, the Darkness
+  - [ ] 144.7. Homebound
+  - [ ] 144.8. The Carrion Lord of the Imperium
