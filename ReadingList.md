@@ -145,7 +145,13 @@
   - [ ] 37.14. The Sigillite
 - [ ] 38. Angels of Caliban (Dark Angels, Ultramarines, Sons of Horus)
 - [ ] 39. Praetorian of Dorn (Imperial Fists, Alpha Legion)
-- [ ] 40. Corax (Raven Guard)
+- [ ] 40. Corax
+  - [ ] 40.1. Corax: Soulforge (Raven Guard)
+  - [ ] 40.2. The Shadowmasters (Raven Guard)
+  - [ ] 40.3. Ravenlord (Raven Guard)
+  - [ ] 40.4. The Value of Fear (Raven Guard)
+  - [ ] 40.5. Raptor (Raven Guard)
+  - [ ] 40.6. Weregeld (Raven Guard)
 - [ ] 41. The Master of Mankind (Custodes, Sisters of Silence, Mechanicum)
 - [ ] 42. Garro (World Eaters, Ultramarines, Death Guard, Knight-Errant)
   - [ ] 42.1. Garro: Oath of Moment

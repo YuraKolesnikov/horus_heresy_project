@@ -11,7 +11,12 @@
 - [ ] 26. Vulkan Lives
 - [ ] 31.10. Kryptos (Legacies of Betrayal)
 - [ ] 31.13. The Divine Word (Legacies of Betrayal)
-- [ ] 40. Corax
+- [ ] 40.1. Corax: Soulforge (Raven Guard)
+- [ ] 40.2. The Shadowmasters (Raven Guard)
+- [ ] 40.3. Ravenlord (Raven Guard)
+- [ ] 40.4. The Value of Fear (Raven Guard)
+- [ ] 40.5. Raptor (Raven Guard)
+- [ ] 40.6. Weregeld (Raven Guard)
 - [ ] 43. Shattered Legions
 - [ ] 47. Old Earth
 - [ ] 48.3. Cybernetica (The Burden of Loyalty)
