@@ -5,7 +5,6 @@
 ## Character Candidates
 
 ## Reading List
-
 - [ ] 6. Descent of Angels
 - [ ] 10.5. Call of the Lion (Tales of Heresy)
 - [ ] 11. Fallen Angels
@@ -21,5 +20,5 @@
 - [ ] 46. Ruinstorm
 - [ ] 68. Lion El'Jonson: Lord of the First
 - [ ] 74.8. First Legion (Scions of the Emperor)
-- [ ] 95. Luther: First of the Fallen
-- [ ] 109. Dreadwing
+- [ ] 81. Luther: First of the Fallen
+- [ ] 88. Dreadwing

@@ -52,15 +52,15 @@
   - [ ] 22.7. Prince of Crows (Night Lords)
 - [ ] 23. Angel Exterminatus (Emperor's Children, Imperial Fists, Iron Warriors, Iron Hands)
 - [ ] 24. Betrayer (World Eaters, Ultramarines, Word Bearers)
-- [ ] 25. Mark of Calth (Ultramarines, Word Bearers)
-  - [ ] 25.1. The Shards of Erebus
-  - [ ] 25.2. Calth That Was
-  - [ ] 25.3. Dark Heart
-  - [ ] 25.4. The Traveller
-  - [ ] 25.5. A Deeper Darkness
-  - [ ] 25.6. The Underworld War
-  - [ ] 25.7. Athame
-  - [ ] 25.8. Unmarked
+- [ ] 25. Mark of Calth
+  - [ ] 25.1. The Shards of Erebus (Word Bearers)
+  - [ ] 25.2. Calth That Was (Ultramarines, Word Bearers)
+  - [ ] 25.3. Dark Heart (Ultramarines, Word Bearers)
+  - [ ] 25.4. The Traveller (Ultramarines, Word Bearers)
+  - [ ] 25.5. A Deeper Darkness (Ultramarines, Word Bearers)
+  - [ ] 25.6. The Underworld War (Ultramarines, Word Bearers)
+  - [ ] 25.7. Athame (Ultramarines, Word Bearers)
+  - [ ] 25.8. Unmarked (Ultramarines, Word Bearers)
 - [ ] 26. Vulkan Lives (Night Lords, Iron Hands, Word Bearers, Salamanders, Raven Guard)
 - [ ] 27. The Unremembered Empire (Dark Angels, Iron Warriors, White Scars, Space Wolves, Blood Angels, Ultramarines)
 - [ ] 28. Scars (White Scars, Alpha Legion)
@@ -80,7 +80,7 @@
   - [ ] 31.11. Wolf's Claw (Space Wolves, Alpha Legion)
   - [ ] 31.12. Thief of Revelations (Thousand Sons)
   - [ ] 31.13. The Divine Word (Raven Guard)
-  - [ ] 31.14. Lucius: The Eternal Blademaster
+  - [ ] 31.14. Lucius: The Eternal Blademaster (Emperor's Children)
   - [ ] 31.15. Kharn: The Eightfold Path (World Eaters)
   - [ ] 31.16. Cypher: Guardian of Order (Dark Angels)
   - [ ] 31.17. Heart of the Conqueror (World Eaters)
@@ -97,7 +97,7 @@
   - [ ] 33.7. Sermon of Exodus (Unknown)
   - [ ] 33.8. By the Lion's Command (Dark Angels)
   - [ ] 33.9. The Harrowing (Alpha Legion)
-  - [ ] 33.10. All That Remains
+  - [ ] 33.10. All That Remains (Astra Militarum)
   - [ ] 33.11. Gunsight (Sons of Horus)
   - [ ] 33.12. Allegiance (Thousand Sons)
   - [ ] 33.13. Daemonology (Death Guard)
@@ -108,7 +108,7 @@
   - [ ] 33.18. Imperfect (Emperor's Children)
   - [ ] 33.19. Chirurgeon (Emperor's Children)
   - [ ] 33.20. Twisted (Sons of Horus)
-  - [ ] 33.21. Wolf Mother
+  - [ ] 33.21. Wolf Mother (Sons of Horus)
 - [ ] 34. Pharos (Dark Angels, Iron Warriors, Imperial Fists, Night Lords, Blood Angels, Ultramarines)
 - [ ] 35. Eye of Terra
   - [ ] 35.1. The Wolf of Ash and Fire (Sons of Horus)
@@ -126,7 +126,7 @@
   - [ ] 35.13. Herald of Sanguinius (Blood Angels)
   - [ ] 35.14. The Eagle's Talon (Iron Warriors, Imperial Fists)
   - [ ] 35.15. Iron Corpses (Iron Warriors, Imperial Fists)
-  - [ ] 35.16. The Final Compliance of Sixty-Three Fourteen
+  - [ ] 35.16. The Final Compliance of Sixty-Three Fourteen (Sons of Horus)
 - [ ] 36. The Path of Heaven (Emperor's Children, White Scars)
 - [ ] 37. The Silent War
   - [ ] 37.1. The Watcher (Space Wolves, Blood Angels (Knight-Errant))
@@ -155,7 +155,7 @@
   - [ ] 42.5. Burden of Duty
   - [ ] 42.6. Garro: Ashes of Fealty
   - [ ] 42.7. Garro: Vow of Faith
-- [ ] 43. Shattered Legions
+- [ ] 43. Shattered Legions (Iron Hands, Salamanders, Raven Guard)
 - [ ] 44. The Crimson King (Space Wolves, Thousand Sons)
 - [ ] 45. Tallarn (Iron Warriors, Sons of Horus)
   - [ ] 45.1. Tallarn: Witness
@@ -243,9 +243,9 @@
   - [ ] 74.7. The Chamber at the End of Memory (Imperial Fists)
   - [ ] 74.8. First Legion (Dark Angels)
 - [ ] 75. Blood of the Emperor
-  - [ ] 75.1. Lupus Daemonis
-  - [ ] 75.2. Skjalds
-  - [ ] 75.3. The Sixth Cult of the Denied
+  - [ ] 75.1. Lupus Daemonis (Sons of Horus)
+  - [ ] 75.2. Skjalds (Space Wolves)
+  - [ ] 75.3. The Sixth Cult of the Denied (Thousand Sons)
   - [ ] 75.4. The Will of the Legion (Imperial Fists)
   - [ ] 75.5. Council of Truth
   - [ ] 75.6. Terminus
@@ -264,16 +264,16 @@
   - [ ] 77.8. Unspoken (Salamanders)
   - [ ] 77.9. The Either (Iron Hands, Sons of Horus)
 - [ ] 78. Lupercal's War
-  - [ ] 78.1. Bloodhowl
-  - [ ] 78.2. Champion of Oaths
-- [ ] 79. Cthonia's Reckoning (Imperial Fists, Sons of Horus)
-  - [ ] 79.1. Sons of Cthonia
-  - [ ] 79.2. To the Last
-  - [ ] 79.3. The Gangs Beneath
-  - [ ] 79.4. The Flesh Harvest
-  - [ ] 79.5. Traitor's Faith
-  - [ ] 79.6. For Hate's Sake
-  - [ ] 79.7. Postulant
+  - [ ] 78.1. Bloodhowl (Space Wolves)
+  - [ ] 78.2. Champion of Oaths (Imperial Fists)
+- [ ] 79. Cthonia's Reckoning
+  - [ ] 79.1. Sons of Cthonia (Imperial Fists, Sons of Horus)
+  - [ ] 79.2. To the Last (Imperial Fists, Sons of Horus)
+  - [ ] 79.3. The Gangs Beneath (Imperial Fists, Sons of Horus)
+  - [ ] 79.4. The Flesh Harvest (Imperial Fists, Sons of Horus)
+  - [ ] 79.5. Traitor's Faith (Imperial Fists, Sons of Horus)
+  - [ ] 79.6. For Hate's Sake (Imperial Fists, Sons of Horus)
+  - [ ] 79.7. Postulant (Imperial Fists, Sons of Horus)
 
 ## Character Novels
 - [ ] 80. Valdor: Birth of the Imperium (Unification Wars)
@@ -300,26 +300,26 @@
 - [ ] 97. A Rose Watered with Blood (World Eaters)
 - [ ] 98. It Bleeds (World Eaters)
 - [ ] 99. Amor Fati (Emperor's Children)
-- [ ] 100. Eater of Dreams
-- [ ] 101. Bringer of Sorrow
+- [ ] 100. Eater of Dreams (Night Lords)
+- [ ] 101. Bringer of Sorrow (Iron Hands)
 - [ ] 102. Prologue to Nikaea
 - [ ] 103. Abyssal
 - [ ] 104. Old Wounds, New Scars
 - [ ] 105. Anathema
-- [ ] 106. The Fields of Abundance
+- [ ] 106. The Fields of Abundance (Death Guard)
 - [ ] 107. The Last Council
-- [ ] 108. The Last Loyalist
+- [ ] 108. The Last Loyalist (World Eaters)
 - [ ] 109. The Lighting Hall
-- [ ] 110. The Nine
+- [ ] 110. The Nine (Mechanicum)
 - [ ] 111. The Serpent's Dance
 - [ ] 112. The Shel'tain Affair
-- [ ] 113. Visage
-- [ ] 114. Two Metaphysical Blades
-- [ ] 115. Primacy
-- [ ] 116. Alone
+- [ ] 113. Visage (Word Bearers)
+- [ ] 114. Two Metaphysical Blades (Space Wolves, Custodes)
+- [ ] 115. Primacy (Emperor's Children)
+- [ ] 116. Alone (Raven Guard)
 
 ## Graphic Novellas
-- [ ] 117. Macragge's Honour
+- [ ] 117. Macragge's Honour (Ultramarines)
 
 ## Audio Dramas
 - [ ] 118. Perturabo: Stone and Iron (Iron Warriors)
@@ -329,33 +329,32 @@
 - [ ] 122. Illyrium (Ultramarines)
 - [ ] 123. The Revelation of the Word (Word Bearers)
 - [ ] 124. Morningstar (Thousand Sons)
-- [ ] 125. Raptor
-- [ ] 126. Blackshields: The False War
-- [ ] 127. Blackshields: The Red Fief
-- [ ] 128. Hubris of Monarchia
-- [ ] 129. Nightfane (Ultramarines)
-- [ ] 130. Blackshields: The Broken Chain
+- [ ] 125. Blackshields: The False War (World Eaters)
+- [ ] 126. Blackshields: The Red Fief (World Eaters)
+- [ ] 127. Hubris of Monarchia (Word Bearers, Ultramarines)
+- [ ] 128. Nightfane (Ultramarines)
+- [ ] 129. Blackshields: The Broken Chain (World Eaters)
 
 ## Siege of Terra
-- [ ] 131. The Solar War
-- [ ] 132. The Lost and the Damned
-- [ ] 133. The First Wall
-- [ ] 134. Sons of the Selenar
-- [ ] 135. Saturnine
-- [ ] 136. The Fury of Magnus
-- [ ] 137. Mortis
-- [ ] 138. Warhawk
-- [ ] 139. Echoes of Eternity
-- [ ] 140. Garro: Knight of Grey
-- [ ] 141. The End and the Death: Volume I
-- [ ] 142. The End and the Death: Volume II
-- [ ] 143. The End and the Death: Volume III
-- [ ] 144. Era of Ruin
-  - [ ] 144.1. Angels of Another Age
-  - [ ] 144.2. Fulgurite (Word Bearers)
-  - [ ] 144.3. Fragments (All We Have Left)
-  - [ ] 144.4. Ex Libris
-  - [ ] 144.5. System Purge
-  - [ ] 144.6. After the Dawn, the Darkness
-  - [ ] 144.7. Homebound
-  - [ ] 144.8. The Carrion Lord of the Imperium
+- [ ] 130. The Solar War
+- [ ] 131. The Lost and the Damned
+- [ ] 132. The First Wall
+- [ ] 133. Sons of the Selenar
+- [ ] 134. Saturnine
+- [ ] 135. The Fury of Magnus
+- [ ] 136. Mortis
+- [ ] 137. Warhawk
+- [ ] 138. Echoes of Eternity
+- [ ] 139. Garro: Knight of Grey
+- [ ] 140. The End and the Death: Volume I
+- [ ] 141. The End and the Death: Volume II
+- [ ] 142. The End and the Death: Volume III
+- [ ] 143. Era of Ruin
+  - [ ] 143.1. Angels of Another Age
+  - [ ] 143.2. Fulgurite (Word Bearers)
+  - [ ] 143.3. Fragments (All We Have Left)
+  - [ ] 143.4. Ex Libris
+  - [ ] 143.5. System Purge
+  - [ ] 143.6. After the Dawn, the Darkness
+  - [ ] 143.7. Homebound
+  - [ ] 143.8. The Carrion Lord of the Imperium
