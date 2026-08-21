@@ -1,13 +1,14 @@
 # Kyr Vhalen
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Warsmith of 77th Grand Batallion
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

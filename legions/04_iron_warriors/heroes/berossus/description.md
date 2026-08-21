@@ -1,13 +1,14 @@
 # Berossus
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 2nd Company, later - Castraferrum Dreadnought
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

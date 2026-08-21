@@ -1,14 +1,15 @@
 # Apolakron
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite
+**Role:** Praevians
+**Composition:** *WIP* Praevians and Techmarines
+**Description:** Brethren of Steel, consisting of Praevians, focused on construction and maintenance of battle-automata
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** Helmetless with bionics / MK2 / MK3 / MK5 with bionics
+**Pauldrons:**
+**Armour:** MK2 / MK3 / MK5
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

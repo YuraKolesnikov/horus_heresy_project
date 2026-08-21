@@ -1,13 +1,14 @@
 # Tubal Cayne
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Knight-Errant
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
