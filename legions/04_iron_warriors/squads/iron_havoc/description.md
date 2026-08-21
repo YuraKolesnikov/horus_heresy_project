@@ -1,14 +1,15 @@
 # Iron Havoc
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite
+**Role:** Heavy Support
+**Composition:** 
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** MK3
+**Pauldrons:**
+**Armour:** MK3
+**Weapons:** Autocannon / Volkite Culverin / Lascannon
+**Distinctive:**
 
 ## Notes

@@ -1,14 +1,15 @@
 # Despoiler Squad
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Line
+**Role:** Melee
+**Composition:** 
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** 
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

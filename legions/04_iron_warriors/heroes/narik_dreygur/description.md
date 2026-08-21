@@ -1,13 +1,14 @@
 # Narik Dreygur
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Legion Praevian from Apolakron
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

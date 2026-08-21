@@ -1,13 +1,14 @@
 # Auric Saxton
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Warsmith
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

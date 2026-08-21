@@ -2,6 +2,8 @@
 
 ## Heavy Support Squad
 
+## Destroyer Squad
+
 ## Apothecary
 
 ## Techmarine

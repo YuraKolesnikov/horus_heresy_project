@@ -1,13 +1,14 @@
 # Kydomor Forrix
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** First Captain, Member of Trident
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
