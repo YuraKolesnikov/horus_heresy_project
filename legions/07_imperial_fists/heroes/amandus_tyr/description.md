@@ -1,13 +1,14 @@
 # Amandus Tyr
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 6th company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

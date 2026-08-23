@@ -1,13 +1,14 @@
 # Archamus
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of Huscarls  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

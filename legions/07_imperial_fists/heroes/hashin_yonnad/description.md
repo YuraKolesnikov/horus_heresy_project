@@ -1,13 +1,14 @@
 # Hashin Yonnad
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Fleet Master  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
