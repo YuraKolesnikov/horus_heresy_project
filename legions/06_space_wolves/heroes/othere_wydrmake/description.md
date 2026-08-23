@@ -1,13 +1,14 @@
 # Othere Wydrmake
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Rune Priest of 5th Great Company
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

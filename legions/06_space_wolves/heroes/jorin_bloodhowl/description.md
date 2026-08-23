@@ -1,13 +1,14 @@
 # Jorin Bloodhowl
 
-Rank: 
-Title: 
+**Rank:** Jarl of 13th Company  
+**Title:** Jarl of 13th Company  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

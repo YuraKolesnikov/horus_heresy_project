@@ -1,13 +1,14 @@
 # Ogvai Ogvai Helmschrot
 
-Rank: 
-Title: 
+**Rank:** Jarl of 3rd Company  
+**Title:** Jarl of 3rd Company  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
