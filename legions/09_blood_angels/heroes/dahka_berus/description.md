@@ -1,13 +1,14 @@
 # Dahka Berus
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** High Warden  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

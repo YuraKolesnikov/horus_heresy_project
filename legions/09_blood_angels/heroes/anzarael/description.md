@@ -1,13 +1,14 @@
 # Anzarael
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Commander of High Host  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Vardas Ison
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** Satre
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
