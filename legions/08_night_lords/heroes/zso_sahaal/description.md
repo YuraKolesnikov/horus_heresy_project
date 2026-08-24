@@ -1,13 +1,14 @@
 # Zso Sahaal
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** The Betrayer
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
