@@ -1,13 +1,14 @@
 # Shabran Darr
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Centurion of 11th Company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Kauragar
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Centurion, Loyalist  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

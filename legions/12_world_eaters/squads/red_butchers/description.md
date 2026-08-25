@@ -1,14 +1,15 @@
 # Red Butchers
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 1x The Devoured, 4x Red Butchers  
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** 
+**Pauldrons:**
+**Armour:** Cataphractii Terminator  
+**Weapons:** Power Axe / Power Fist / Chainaxe / Chainfist  
+**Distinctive:**
 
 ## Notes
