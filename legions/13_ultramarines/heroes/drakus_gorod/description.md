@@ -1,13 +1,14 @@
 # Drakus Gorod
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of Invictarii  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

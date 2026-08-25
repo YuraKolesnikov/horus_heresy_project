@@ -1,13 +1,14 @@
 # Orfeo Cassandar
 
-Rank: 
-Title: 
+**Rank:** Legate of Armatura  
+**Title:** Legate of Armatura  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

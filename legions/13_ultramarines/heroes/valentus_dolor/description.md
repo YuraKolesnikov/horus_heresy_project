@@ -1,13 +1,14 @@
 # Valentus Dolor
 
-Rank: 
-Title: 
+**Rank:** Tetrarch of Occluda  
+**Title:** Tetrarch of Occluda  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Tauro Nicodemus
 
-Rank: 
-Title: 
+**Rank:** Tetrarch of Saramanth  
+**Title:** Tetrarch of Saramanth  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

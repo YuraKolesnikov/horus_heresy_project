@@ -1,13 +1,14 @@
 # Eleon Iasus
 
-Rank: 
-Title: 
+**Rank:** 22nd Chapter Master  
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

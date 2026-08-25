@@ -1,13 +1,14 @@
 # Stolos Amyntas
 
-Rank: 
-Title: 
+**Rank:** Tetrarch of Iax  
+**Title:** Tetrarch of Iax  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
