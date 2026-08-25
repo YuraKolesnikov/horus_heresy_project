@@ -1,13 +1,14 @@
 # Phael Toron
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 7th Fellowship  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

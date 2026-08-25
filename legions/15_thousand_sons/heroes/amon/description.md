@@ -1,13 +1,14 @@
 # Amon
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 9th Fellowship  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

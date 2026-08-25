@@ -1,14 +1,15 @@
 # Sekhmet
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:**  Thousand Sons Artificer helmets  
+**Pauldrons:**
+**Armour:** Tartaros Terminator  
+**Weapons:** Combi-Bolter + Sceptre  
+**Distinctive:**
 
 ## Notes

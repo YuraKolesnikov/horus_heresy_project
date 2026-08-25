@@ -1,13 +1,14 @@
 # Ignis
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Adept of the Order of Ruin  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

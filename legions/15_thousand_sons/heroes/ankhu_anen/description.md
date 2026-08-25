@@ -1,13 +1,14 @@
 # Ankhu Anen
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Guardian of the Great Library of Tizca  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
