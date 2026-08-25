@@ -1,14 +1,15 @@
 # Grave Wardens
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 5x Grave Wardens  
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** Death Guard Artificer helmet / Cataphractii  
+**Pauldrons:**
+**Armour:** Cataphractii Terminator  
+**Weapons:** Phosphex Incinerator / Alchem Weapons  
+**Distinctive:**
 
 ## Notes

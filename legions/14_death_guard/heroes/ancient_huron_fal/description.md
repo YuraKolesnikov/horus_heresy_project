@@ -1,13 +1,14 @@
 # Ancient Huron-Fal
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Contemptor Dreadnought, Loyalist  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

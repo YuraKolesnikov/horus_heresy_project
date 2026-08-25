@@ -1,13 +1,14 @@
 # Gremus Kalgaro
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Siegemaster  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
