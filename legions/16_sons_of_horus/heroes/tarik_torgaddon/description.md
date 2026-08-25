@@ -1,13 +1,14 @@
 # Tarik Torgaddon
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

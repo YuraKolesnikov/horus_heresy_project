@@ -1,14 +1,15 @@
 # Laernaean Terminators
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** 
+**Role:** 
+**Composition:** 
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** 
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
