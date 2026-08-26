@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Reaver Captain  
 
 ## Appearance
 **Helmet:**

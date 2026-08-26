@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of 4th Company  
 
 ## Appearance
 **Helmet:**

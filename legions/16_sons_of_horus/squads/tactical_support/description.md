@@ -1,15 +1,15 @@
 # Tactical Support Squad
 
-**Tier:** 
-**Role:** 
+**Tier:** Line  
+**Role:** Tactical Support  
 **Composition:** 
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** MK3  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** MK3  
+**Weapons:** Melta Gun / Plasma Gun / Flamer / Volkite Culverin  
 **Distinctive:**
 
 ## Notes

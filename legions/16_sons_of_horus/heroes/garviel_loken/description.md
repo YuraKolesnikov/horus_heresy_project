@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of 10th Company, Knight-Errant  
 
 ## Appearance
 **Helmet:**

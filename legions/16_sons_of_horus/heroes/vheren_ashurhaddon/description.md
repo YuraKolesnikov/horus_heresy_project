@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Knight-Errant  
 
 ## Appearance
 **Helmet:**

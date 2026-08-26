@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Member of Crusader Host, Knight-Errant  
 
 ## Appearance
 **Helmet:**

@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Emissary of Horus  
 
 ## Appearance
 **Helmet:**

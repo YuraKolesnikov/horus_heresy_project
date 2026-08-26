@@ -1,15 +1,14 @@
 # Tactical Squad
 
-**Tier:** 
-**Role:** 
-**Composition:** 
-**Description:** 
+**Tier:**   
+**Role:** Tactical  
+**Composition:** 1x Captain, 1x Sergeant, 3x Battle-Brothers  
 
 ## Appearance
-**Helmets:** 
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmets:** Sons of Horus Artificer helmets / MK4  
+**Pauldrons:**  
+**Armour:** MK4  
+**Weapons:** Bolter / Bolt Pistol + Chainsword  
+**Distinctive:**  
 
 ## Notes
