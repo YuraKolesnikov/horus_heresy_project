@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Master of the Forge  
 
 ## Appearance
 **Helmet:**

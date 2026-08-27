@@ -1,15 +1,15 @@
 # Pyre Wardens
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 1x Praetor, 4x Pyre Wardens  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Salamanders Artificer helmet / Saturnine  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Saturnine Terminator  
+**Weapons:** Heavy Plasma Bombard / Plasma Blaster + Disruption Fist  
 **Distinctive:**
 
 ## Notes
