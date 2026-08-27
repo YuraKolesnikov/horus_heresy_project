@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Sergeant of the Raptors  
 
 ## Appearance
 **Helmet:**

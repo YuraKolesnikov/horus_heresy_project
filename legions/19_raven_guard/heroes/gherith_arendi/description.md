@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of the Shadow Wardens  
 
 ## Appearance
 **Helmet:**

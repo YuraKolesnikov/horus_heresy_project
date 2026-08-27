@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Chief Librarian, Knight-Errant  
 
 ## Appearance
 **Helmet:**

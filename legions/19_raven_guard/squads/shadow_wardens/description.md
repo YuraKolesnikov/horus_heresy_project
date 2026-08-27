@@ -1,14 +1,15 @@
 # Shadow Wardens
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Melee  
+**Composition:** 5x Shadow Wardens  
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** MK6  
+**Pauldrons:**
+**Armour:** MK6  
+**Weapons:** Thunder Shield + Power Spear  
+**Distinctive:** Jump Pack  
 
 ## Notes
