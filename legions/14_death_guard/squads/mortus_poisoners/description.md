@@ -1,14 +1,15 @@
 # Mortus Poisoners
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Destroyers  
+**Composition:** 1x Poison-Master, 4x Battle-Brothers  
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** MK4 Destroyer  
+**Pauldrons:**
+**Armour:** MK4  
+**Weapons:** Chemical Flamers
+**Distinctive:**
 
 ## Notes

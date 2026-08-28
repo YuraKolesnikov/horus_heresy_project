@@ -1,13 +1,14 @@
 # Hadrabulus Vioss
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of Grave Wardens  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

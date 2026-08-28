@@ -1,14 +1,15 @@
 # Deathshroud Bodyguards
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 5x Deathshroud Terminators  
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** Deathshroud Tartaros  
+**Pauldrons:**
+**Armour:** Tartaros  
+**Weapons:** Manreaper + Alchem Caster  
+**Distinctive:**
 
 ## Notes

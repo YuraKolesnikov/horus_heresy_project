@@ -1,13 +1,14 @@
 # Ignatius Grulgor
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 2nd Company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
