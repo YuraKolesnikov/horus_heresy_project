@@ -1,13 +1,14 @@
 # Vespasian
 
-Rank: 
-Title: 
+**Rank:** Lord Commander Secundus
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

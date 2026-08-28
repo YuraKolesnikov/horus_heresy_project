@@ -1,13 +1,14 @@
 # Ravasch Cario
 
-Rank: 
-Title: 
+**Rank:** Prefector of Palatine Blades
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

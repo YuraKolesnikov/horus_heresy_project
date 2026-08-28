@@ -1,13 +1,14 @@
 # Marius Vairosean
 
-Rank: 
-Title: 
+**Rank:** Captain of 3rd Company
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Saul Tarvitz
 
-Rank: 
-Title: 
+**Rank:** Captain of 10th Company
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
