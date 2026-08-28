@@ -1,13 +1,14 @@
 # Farith Redloss
 
-Rank: 
-Title: 
+**Rank:** Master of Dreadwing  
+**Title:** Master of Dreadwing  
+**Description:**  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

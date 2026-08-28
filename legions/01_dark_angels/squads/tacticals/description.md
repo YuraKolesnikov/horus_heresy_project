@@ -1,14 +1,14 @@
 # Tactical Squad
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Line
+**Role:** Tactical
+**Composition:** 1x Master, 4x Knights
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** MK2
+**Pauldrons:**
+**Armour:** MK2
+**Weapons:** Bolter / Bolt Pistol + Chainsword
+**Distinctive:**
 
 ## Notes

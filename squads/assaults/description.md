@@ -9,7 +9,7 @@
 **Helmets:** 
 **Pauldrons:**
 **Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Weapons:** Bolt Pistol / Plasma Pistol / Volkite Pistol + Chainsword / Power Sword
+**Distinctive:** Jump Pack
 
 ## Notes
