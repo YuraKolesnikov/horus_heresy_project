@@ -1,13 +1,14 @@
 # Jebez Aug
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Iron Father  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

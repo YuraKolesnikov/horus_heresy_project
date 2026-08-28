@@ -1,13 +1,14 @@
 # Autek Mor
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Iron Father of Clan Morragul  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

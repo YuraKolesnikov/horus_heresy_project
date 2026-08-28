@@ -1,13 +1,14 @@
 # Durun Atticus
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 111th Company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
