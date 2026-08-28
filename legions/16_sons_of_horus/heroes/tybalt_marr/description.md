@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of 18th Company  
 
 ## Appearance
 **Helmet:**

@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Praetor of Luna Wolves  
 
 ## Appearance
 **Helmet:**

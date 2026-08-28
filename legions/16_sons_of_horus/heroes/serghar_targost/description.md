@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of 7th Company  
 
 ## Appearance
 **Helmet:**

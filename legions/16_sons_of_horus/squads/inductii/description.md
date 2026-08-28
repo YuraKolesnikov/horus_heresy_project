@@ -1,15 +1,15 @@
 # Inductii
 
-**Tier:** 
-**Role:** 
+**Tier:** Line  
+**Role:** Tactical  
 **Composition:** 
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** MK2 / MK3 / MK4 / MK5 / MK6  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** MK2 / MK3 / MK4 / MK6
+**Weapons:** Bolter / Bolt Pistol + Chainsword / Chainaxe  
 **Distinctive:**
 
 ## Notes
