@@ -1,13 +1,14 @@
 # Tesserius Akurduana
 
-Rank: 
-Title: 
+**Rank:** First Palatine
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

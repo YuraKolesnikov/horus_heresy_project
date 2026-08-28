@@ -1,13 +1,14 @@
 # Eidolon
 
-Rank: 
-Title: 
+**Rank:** Lord Commander Primus
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

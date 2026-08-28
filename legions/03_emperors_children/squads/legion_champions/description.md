@@ -1,14 +1,15 @@
 # Legion Champions
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Melee  
+**Composition:** 5x Champions  
+**Description:** Veterans, specialized in melee combat  
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** MK4 / MK6 / Unique helmets  
+**Pauldrons:**
+**Armour:** MK4 / MK6  
+**Weapons:** Dual Power Swords  
+**Distinctive:**
 
 ## Notes

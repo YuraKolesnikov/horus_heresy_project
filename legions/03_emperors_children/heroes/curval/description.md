@@ -1,13 +1,14 @@
 # Curval
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Traitor Dreadnought
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Julius
 
-Rank: 
-Title: 
+**Rank:** Captain of 13th Company
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

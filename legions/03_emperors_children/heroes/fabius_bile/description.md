@@ -1,13 +1,14 @@
 # Fabius Bile
 
-Rank: 
-Title: 
+**Rank:** Chief Apothecary
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Flavius Alkenex
 
-Rank: 
-Title: 
+**Rank:** Prefector of Phoenix Guard
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
