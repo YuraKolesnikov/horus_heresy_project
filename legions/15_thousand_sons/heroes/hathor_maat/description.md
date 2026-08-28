@@ -1,13 +1,14 @@
 # Hathor Maat
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 3rd Fellowship  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

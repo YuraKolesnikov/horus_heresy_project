@@ -1,13 +1,14 @@
 # Phosis T'Kar
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 2nd Fellowship  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
