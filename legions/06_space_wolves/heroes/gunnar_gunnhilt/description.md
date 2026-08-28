@@ -1,13 +1,14 @@
 # Gunnar Gunnhilt
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** First Captain, Jarl of 1st Company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

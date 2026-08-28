@@ -1,13 +1,14 @@
 # Amlodhi Skarssen Skarsseonsson
 
-Rank: 
-Title: 
+**Rank:** Jarl of 5th Company  
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

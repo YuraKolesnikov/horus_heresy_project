@@ -1,13 +1,14 @@
 # Bror Tyrfingr
 
-Rank: 
-Title: 
+**Rank:** Knight-Errant  
+**Title:** Knight-Errant  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

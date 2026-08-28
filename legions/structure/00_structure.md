@@ -16,7 +16,7 @@
 - Battalion Command Bodyguard
 
 #### Companies
-- Company Captain (Centurion/Prime/Wolf Lord/Blooded)
+- Company Captain (Centurion/Prime/Wolf Lord/Thegn/Blooded)
 - Company Command Bodyguard
 
 ##### Demi-Companies

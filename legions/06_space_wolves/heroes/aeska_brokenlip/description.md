@@ -1,13 +1,14 @@
 # Aeska Brokenlip
 
-Rank: 
-Title: 
+**Rank:** Wolf Lord of 3rd Company  
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

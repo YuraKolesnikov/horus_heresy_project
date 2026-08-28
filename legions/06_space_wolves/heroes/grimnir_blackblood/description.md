@@ -1,13 +1,14 @@
 # Grimnir Blackblood
 
-Rank: 
-Title: 
+**Rank:** Huscarl of Einherjar  
+**Title:** Huscarl of Einherjar  
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
