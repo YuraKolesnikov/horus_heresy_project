@@ -1,13 +1,14 @@
 # Fafnir Rann
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Lord Senechal  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

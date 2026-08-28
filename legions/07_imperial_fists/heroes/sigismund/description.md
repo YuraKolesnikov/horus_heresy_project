@@ -1,13 +1,14 @@
 # Sigismund
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Marshal of Templar Brethen  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

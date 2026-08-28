@@ -36,3 +36,11 @@
 - [ ] 79.6. For Hate's Sake (Cthonia's Reckoning)
 - [ ] 79.7. Postulant (Cthonia's Reckoning)
 - [ ] 82. Sigismund: The Eternal Crusader
+
+## Painting Tips
+Yellow:
+- Averland sunset overbrushed on a brown base
+- Yriel yellow drybrush over
+
+Trim was just painted with Exhaust manifold by vallejo
+Then I cover both with a brown tamiya panel liner
