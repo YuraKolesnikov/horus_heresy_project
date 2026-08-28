@@ -1,0 +1,14 @@
+# Tactical Squad
+
+**Tier:** Line  
+**Role:** Tactical  
+**Composition:** 1x Iron Captain, 1x Sergeant, 3x Battle-Brothers  
+
+## Appearance
+**Helmets:** MK2  
+**Pauldrons:**  
+**Armour:** MK2  
+**Weapons:** Bolter / Bolt Pistol + Chainsword  
+**Distinctive:**  
+
+## Notes

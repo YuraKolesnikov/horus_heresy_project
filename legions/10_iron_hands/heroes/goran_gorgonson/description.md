@@ -1,13 +1,14 @@
 # Goran Gorgonson
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Apothecary of Clan Lokopt  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

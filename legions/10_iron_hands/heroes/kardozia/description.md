@@ -1,13 +1,14 @@
 # Kardozia
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Dreadnought Iron Father  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

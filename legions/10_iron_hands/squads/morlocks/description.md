@@ -1,14 +1,15 @@
 # Morlocks
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 
+**Description:** 
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** Gorgon
+**Pauldrons:**
+**Armour:** Gorgon Terminator
+**Weapons:** Power Axe / Omnissiah Axe / Thunder Hammer + Combi-Bolter / Volkite Charger / Volkite Culverin / Melta / Graviton Gun / Plasma Gun / Disintegrator  
+**Distinctive:**
 
 ## Notes

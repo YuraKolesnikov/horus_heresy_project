@@ -1,13 +1,14 @@
 # Frater Thamatica
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Morlock Veteran  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
