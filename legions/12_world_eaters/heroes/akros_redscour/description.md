@@ -1,13 +1,14 @@
 # Akros Redscour
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Rampager  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

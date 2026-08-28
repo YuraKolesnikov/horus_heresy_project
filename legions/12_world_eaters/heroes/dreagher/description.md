@@ -1,13 +1,14 @@
 # Dreagher
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 9th Company  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

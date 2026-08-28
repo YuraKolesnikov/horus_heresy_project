@@ -1,13 +1,14 @@
 # Zhukel Dror
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Commander of Red Butchers  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

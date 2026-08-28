@@ -1,13 +1,14 @@
 # Vorias
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Chief Librarian  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

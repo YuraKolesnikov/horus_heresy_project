@@ -1,13 +1,14 @@
 # Macer Varren
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 12th Company, Knight-Errant  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
