@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Commander of the Falcons  
 
 ## Appearance
 **Helmet:**

@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Battle Brother of 66th Company  
 
 ## Appearance
 **Helmet:**

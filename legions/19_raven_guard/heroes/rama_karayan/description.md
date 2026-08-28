@@ -1,7 +1,7 @@
 # Rama Karayan
 
-**Rank:** 
-**Title:** 
+**Rank:** Knight-Errant  
+**Title:** Knight-Errant  
 **Description:**
 
 ## Appearance
