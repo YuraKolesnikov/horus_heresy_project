@@ -1,12 +1,14 @@
 # Lion El'Jonson
 
-Rank: Primarch
-Title: Lord of the First
-Armour: Artificer
-Weapons: Power Sword and Shield
+**Rank:** Primarch  
+**Title:**   
+**Description:**  
 
 ## Appearance
-Helmet: Artificer
-Pauldrons: Artificer
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

@@ -1,13 +1,13 @@
 # Israfael
 
-Rank: 
-Title: 
+**Rank:** Chief Librarian  
+**Title:**   
+**Description:**  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
-
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 ## Notes

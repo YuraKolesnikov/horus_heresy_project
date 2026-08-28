@@ -1,13 +1,14 @@
 # Luther
 
-Rank: 
-Title: 
+**Rank:** Legion Praetor  
+**Title:**   
+**Description:**  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

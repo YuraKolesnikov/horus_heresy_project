@@ -1,14 +1,15 @@
 # Dreadwing Naufragia
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** Elite
+**Role:** Terminators
+**Composition:** 1x Praefectus, 4x Initiates
+**Description:** Saturnine Terminator squads
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:** Saturnine or Dark Angels unique helmets
+**Pauldrons:**
+**Armour:** Saturnine Terminator
+**Weapons:** Plasma Cannons / Phosphex Cannons
+**Distinctive:**
 
 ## Notes

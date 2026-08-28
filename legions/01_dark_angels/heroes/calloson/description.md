@@ -1,13 +1,14 @@
 # Calloson
 
-Rank: 
-Title: 
+**Rank:** Commander of Stormwing  
+**Title:** Commander of Stormwing  
+**Description:**   
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**   
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

@@ -1,13 +1,14 @@
 # Zahariel
 
-Rank: 
-Title: 
+**Rank:** Librarian  
+**Title:** 
+**Description:**   
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

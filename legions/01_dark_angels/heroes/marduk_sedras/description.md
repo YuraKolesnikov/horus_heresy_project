@@ -1,13 +1,14 @@
 # Marduk Sedras
 
-Rank: 
-Title: 
+**Rank:** Eskaton of Dreadwing  
+**Title:**   
+**Description:**  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

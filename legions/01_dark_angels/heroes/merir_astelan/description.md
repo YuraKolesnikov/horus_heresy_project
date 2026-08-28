@@ -1,13 +1,14 @@
 # Merir Astelan
 
-Rank: 
-Title: 
+**Rank:** Chapter Master (Unknown Chapter)
+**Title:**   
+**Description:**  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**   
+**Pauldrons:**   
+**Armour:**    
+**Weapons:**   
+**Distinctive:**   
 
 ## Notes

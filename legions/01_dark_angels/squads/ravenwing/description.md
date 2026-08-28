@@ -1,14 +1,15 @@
 # Ravenwing
 
-Tier: 
-Role: 
-Composition: 
+**Tier:** 
+**Role:** Bikers
+**Composition:**
+**Description:** Bikers
 
 ## Appearance
-Helmets:
-Pauldrons:
-Armour: 
-Weapons:
-Distinctive:
+**Helmets:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:**
+**Distinctive:**
 
 ## Notes
