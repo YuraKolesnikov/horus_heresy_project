@@ -2,10 +2,13 @@
 
 ## Legion Traits
 
+## Legion Iconography
+Emblazoned on his left shoulder guard and overlaying the runic poetry was an open book sculpted from bronze, with its pages aflame. Each tongue of fire was hand-carved from red iron, welded with artful craft onto the book itself. In the right light, the metal pages seemed to flicker with iron flame.
+
+
 ## Character Candidates
 
 ## Reading List
-- [ ] 8. Battle for the Abyss
 - [ ] 47. Old Earth
 - [ ] 53. Titandeath (Battle in Beta-Garmon Sector)
 - [ ] 84. Zardu Layak: The Crimson Apostle
@@ -20,10 +23,8 @@ Great Crusade and Heresy Start
 - [x] 14. The First Heretic (Monarchia, Pilgrimage, Dropsite Massacre)
 - [x] 10.3. Scions of the Storm (Shorty after Monarchia)
 - [x] 35.2. Aurelian (Pilgrimate)
+- [ ] 8. Battle for the Abyss
 - [ ] 90. Dropsite Massacre
-
-Signus Prime
-- [ ] 21. Fear to Tread
 
 Shadow Crusade
 - [ ] 127. Hubris of Monarchia

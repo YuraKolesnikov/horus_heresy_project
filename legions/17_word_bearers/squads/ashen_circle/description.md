@@ -1,15 +1,15 @@
 # Ashen Circle
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Assault  
+**Composition:** 1x Iconoclast, 4x Incendiaries  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Unique  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Unique  
+**Weapons:** Hand Flamer / Hand Melta + Axe-Rake  
+**Distinctive:** Jump Pack  
 
 ## Notes

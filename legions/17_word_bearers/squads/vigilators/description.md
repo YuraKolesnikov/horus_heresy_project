@@ -1,15 +1,15 @@
 # Vigilators
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Vigilators  
+**Composition:** 5x Vigilators  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** MK4  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** MK4  
+**Weapons:** Heavy Bolter Rifle / Nemesis Bolter  
+**Distinctive:** Augurs and auspexes  
 
 ## Notes

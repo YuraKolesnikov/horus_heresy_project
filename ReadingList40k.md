@@ -230,7 +230,7 @@
 - [ ] 3. Arks of Omen: Abaddon
 
 #### 17. Word Bearers
-- [ ] 1. Apocalypse (Warband)
+- [x] 1. Apocalypse (Warband)
 - [ ] 2. Word Bearers Series
   - [ ] 2.1. Dark Apostle
   - [ ] 2.2. Dark Disciple
