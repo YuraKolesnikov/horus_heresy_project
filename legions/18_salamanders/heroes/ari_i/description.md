@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Pyre Guard  
 
 ## Appearance
 **Helmet:**

@@ -1,15 +1,15 @@
 # Pyroclasts
 
-**Tier:** 
-**Role:** 
+**Tier:** Elite  
+**Role:** Terminators  
 **Composition:** 
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Salamanders Artificer helmet / MK3
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** MK3  
+**Weapons:** Pyroclast Flame Projector + Power Fist  
 **Distinctive:**
 
 ## Notes

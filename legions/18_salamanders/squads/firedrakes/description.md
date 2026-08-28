@@ -1,15 +1,15 @@
 # Firedrakes
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Terminators    
+**Composition:** 1x Captain, 4x Firedrakes  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Salamanders Artificer helmet / Tartaros  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Tartaros  
+**Weapons:** Storm Shield + Thunder Hammer  
 **Distinctive:**
 
 ## Notes

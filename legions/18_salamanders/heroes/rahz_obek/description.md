@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Firedrakes Captain  
 
 ## Appearance
 **Helmet:**

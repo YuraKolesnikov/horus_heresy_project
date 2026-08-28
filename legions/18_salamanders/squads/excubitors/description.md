@@ -1,15 +1,15 @@
 # Excubitors
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 1x Praetor, 4x Excubitors  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Saturnine  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Saturnine  
+**Weapons:** Heavy Disintegrator / Disruption Fists / Plasma Blaster / Saturnine War Axe / Saturnine Concussion Hammer  
 **Distinctive:**
 
 ## Notes

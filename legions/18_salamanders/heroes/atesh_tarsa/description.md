@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Apothecary of 24th Company, saved Magna Mater  
 
 ## Appearance
 **Helmet:**
