@@ -1,13 +1,14 @@
 # Telemechrus
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Contemptor Dreadnought  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

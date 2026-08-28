@@ -1,13 +1,14 @@
 # Titus Prayto
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Librarian, Guilliman's Advisor  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
