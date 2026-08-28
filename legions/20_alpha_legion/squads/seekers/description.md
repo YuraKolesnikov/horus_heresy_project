@@ -1,15 +1,15 @@
 # Seekers
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Seekers  
+**Composition:** 5x Seekers  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Alpha Legion Artificer helmet / MK4  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** MK4  
+**Weapons:** Nemesis Bolter / Bolter + Power Sword / Power Dagger  
 **Distinctive:**
 
 ## Notes

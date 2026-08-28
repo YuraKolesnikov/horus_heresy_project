@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Consul  
 
 ## Appearance
 **Helmet:**

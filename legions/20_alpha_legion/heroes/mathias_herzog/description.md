@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of the 2nd Company  
 
 ## Appearance
 **Helmet:**

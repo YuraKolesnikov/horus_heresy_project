@@ -1,15 +1,15 @@
 # Vigilators
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Line  
+**Role:** Vigilators  
+**Composition:** 5x Vigilators  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Alpha Legion Artificer helmet / 
 **Pauldrons:**
 **Armour:** 
-**Weapons:** 
+**Weapons:** Antimaterial sniper rifle / Vigilator Bolter rifle  
 **Distinctive:**
 
 ## Notes
