@@ -21,8 +21,8 @@ Before Great Crusade
 
 Great Crusade and Heresy Start
 - [x] 14. The First Heretic (Monarchia, Pilgrimage, Dropsite Massacre)
-- [x] 10.3. Scions of the Storm (Shorty after Monarchia)
-- [x] 35.2. Aurelian (Pilgrimate)
+- [x] 10.3. Scions of the Storm (Shortly after Monarchia)
+- [x] 35.2. Aurelian (Pilgrimage)
 - [ ] 8. Battle for the Abyss
 - [ ] 90. Dropsite Massacre
 
