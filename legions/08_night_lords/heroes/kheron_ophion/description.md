@@ -1,13 +1,14 @@
 # Kheron Ophion
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 39th Company
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Krukesh the Pale
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of 103rd Company
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

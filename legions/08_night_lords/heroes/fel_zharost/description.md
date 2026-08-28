@@ -1,13 +1,14 @@
 # Fel Zharost
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Chief Librarian, Knight-Errant
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

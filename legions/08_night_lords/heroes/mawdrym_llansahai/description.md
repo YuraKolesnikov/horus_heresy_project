@@ -1,13 +1,14 @@
 # Mawdrym Llansahai
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Flaymaster
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

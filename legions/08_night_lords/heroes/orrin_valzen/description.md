@@ -1,13 +1,14 @@
 # Orrin Valzen
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Chief Apothecary
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

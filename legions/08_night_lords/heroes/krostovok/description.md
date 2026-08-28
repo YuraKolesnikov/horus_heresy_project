@@ -1,13 +1,14 @@
 # Krostovok
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Commander  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
