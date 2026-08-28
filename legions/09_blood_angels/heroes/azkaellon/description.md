@@ -1,13 +1,14 @@
 # Azkaellon
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Captain of Sanguinary Guard
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

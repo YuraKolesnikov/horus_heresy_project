@@ -1,13 +1,14 @@
 # Meros
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** The Red Angel
+**Description:** Apothecary in 9th Company
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

@@ -1,13 +1,14 @@
 # Mkani Kano
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Librarian, Chapter Master
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
