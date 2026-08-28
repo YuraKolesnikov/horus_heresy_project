@@ -1,13 +1,14 @@
 # Targutai Yesugei
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Chief Stormseer  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

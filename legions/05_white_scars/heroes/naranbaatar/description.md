@@ -1,13 +1,14 @@
 # Naranbaatar
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** Stormseer  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

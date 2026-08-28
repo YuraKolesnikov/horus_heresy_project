@@ -1,13 +1,14 @@
 # Giyahun Noyan-Khan
 
-Rank: 
-Title: 
+**Rank:** 
+**Title:** 
+**Description:** First Noyan-Khan  
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes

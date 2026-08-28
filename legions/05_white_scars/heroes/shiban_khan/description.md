@@ -1,13 +1,14 @@
 # Shiban Khan
 
-Rank: 
-Title: 
+**Rank:** Commander of the Brotherhood of the Storm  
+**Title:** 
+**Description:**
 
 ## Appearance
-Helmet:
-Pauldrons:
-Armour: 
-Weapons: 
-Distinctive:
+**Helmet:**
+**Pauldrons:**
+**Armour:** 
+**Weapons:** 
+**Distinctive:**
 
 ## Notes
