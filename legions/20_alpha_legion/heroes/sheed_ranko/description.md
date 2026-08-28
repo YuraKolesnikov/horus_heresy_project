@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Captain of Lernaean Terminators  
 
 ## Appearance
 **Helmet:**

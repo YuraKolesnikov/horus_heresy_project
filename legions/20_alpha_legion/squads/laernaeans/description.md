@@ -1,15 +1,15 @@
 # Laernaean Terminators
 
-**Tier:** 
-**Role:** 
-**Composition:** 
+**Tier:** Elite  
+**Role:** Terminators  
+**Composition:** 5x Laernaean Terminators  
 **Description:** 
 
 ## Appearance
-**Helmets:** 
+**Helmets:** Alpha Legion Artificer helmet / Cataphractii  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Cataphractii  
+**Weapons:** Combi-Bolter + Power Axe / Power Sword  
 **Distinctive:**
 
 ## Notes

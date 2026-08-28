@@ -2,7 +2,7 @@
 
 **Rank:** 
 **Title:** 
-**Description:**
+**Description:** Headhunter Prime  
 
 ## Appearance
 **Helmet:**
