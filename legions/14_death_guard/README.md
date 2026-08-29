@@ -2,6 +2,8 @@
 
 ## Legion Traits
 
+## Legion Heraldry and Colors
+
 ## Character Candidates
 
 ## Reading List

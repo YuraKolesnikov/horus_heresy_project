@@ -2,7 +2,7 @@
 
 ## Legion Traits
 
-## Legion Heraldry
+## Legion Heraldry and Colors
 - The palatine aquila still stood out upon his breastplate, as was his right as one of the Emperor’s Children Legion. Many of his brothers were already defiling the Imperial symbol as they altered their armour with little but their own blades and ingenuity, but he kept his wargear as pristine as possible. The emblem could be removed by the tech-adepts once his planet-side duties were complete. Until then, he would tolerate no damage to the ceramite he’d miraculously managed to keep unbroken through the insane battle earlier that week.
 
 ## Character Candidates

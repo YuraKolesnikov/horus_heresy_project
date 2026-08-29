@@ -2,7 +2,7 @@
 
 ## Legion Traits
 
-## Legion Iconography
+## Legion Heraldry and Colors
 Emblazoned on his left shoulder guard and overlaying the runic poetry was an open book sculpted from bronze, with its pages aflame. Each tongue of fire was hand-carved from red iron, welded with artful craft onto the book itself. In the right light, the metal pages seemed to flicker with iron flame.
 
 

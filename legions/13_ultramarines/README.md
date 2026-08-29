@@ -2,6 +2,9 @@
 
 ## Legion Traits
 
+## Legion Heraldry and Colors
+- This one’s armour, like the craft it emerged from, was a deep and beautiful cobalt, trimmed with bronze so polished it gleamed close to gold. Its eyes were slanted red slits in a stoic facemask.
+
 ## Character Candidates
 
 ## Reading List
