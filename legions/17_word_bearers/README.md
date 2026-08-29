@@ -14,11 +14,8 @@ UPDATE - Читать только эти
 - [ ] 8. Battle for the Abyss
 - [ ] 25.1. The Shards of Erebus
 - [ ] 35.6. Inheritor
-- [ ] 47. Old Earth
 - [ ] 51. Slaves to Darkness
-- [ ] 53. Titandeath (Battle in Beta-Garmon Sector)
 - [ ] 84. Zardu Layak: The Crimson Apostle
-- [ ] 90. Dropsite Massacre
 - [ ] 113. Visage
 - [ ] 123. The Revelation of the Word
 
