@@ -8,7 +8,6 @@
 ## Character Candidates
 
 ## Reading List
-- [ ] 8. Battle for the Abyss
 - [ ] 16.1. Rules of Engagement (Age of Darkness)
 - [ ] 19. Know No Fear
 - [ ] 24. Betrayer

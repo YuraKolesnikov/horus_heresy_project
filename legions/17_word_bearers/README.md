@@ -9,10 +9,18 @@ Emblazoned on his left shoulder guard and overlaying the runic poetry was an ope
 ## Character Candidates
 
 ## Reading List
+
+UPDATE - Читать только эти
+- [ ] 8. Battle for the Abyss
+- [ ] 25.1. The Shards of Erebus
+- [ ] 35.6. Inheritor
 - [ ] 47. Old Earth
+- [ ] 51. Slaves to Darkness
 - [ ] 53. Titandeath (Battle in Beta-Garmon Sector)
 - [ ] 84. Zardu Layak: The Crimson Apostle
+- [ ] 90. Dropsite Massacre
 - [ ] 113. Visage
+- [ ] 123. The Revelation of the Word
 
 
 Before Great Crusade
@@ -55,4 +63,4 @@ Before the Siege of Terra
 After Siege of Terra
 - [ ] 143.2. Fulgurite (On Terra)
 - [ ] 55. Ashes of the Imperium (Traitors Fleeing from Terra)
-- [ ] 73.4. Shadow of the Past (Daemon Corax vs Daemon Lorgar)
+- [x] 73.4. Shadow of the Past (Daemon Corax vs Daemon Lorgar)
