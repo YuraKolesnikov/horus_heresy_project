@@ -3,6 +3,7 @@
 ## Legion Traits
 
 ## Legion Heraldry and Colors
+The warriors of the XII Legion were well-armed with chainaxes and storm shields. They bore side arms too, but Antiges suspected that they were rarely drawn. World Eaters fought up close, in face-to-face melee, where the force of a charge and the shock of their ferocity counted the most.  
 
 ## Character Candidates
 
