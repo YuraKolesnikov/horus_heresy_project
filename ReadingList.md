@@ -8,7 +8,7 @@
 - [ ] 5. Fulgrim (Emperor's Children, Iron Hands)
 - [ ] 6. Descent of Angels (Dark Angels)
 - [ ] 7. Legion (Alpha Legion)
-- [ ] 8. Battle for the Abyss (Ultramarines)
+- [x] 8. Battle for the Abyss (Ultramarines)
 - [ ] 9. Mechanicum (Imperial Fists, Mechanicum)
 - [ ] 10. Tales of Heresy
   - [ ] 10.1 Blood Games (Custodes)
@@ -116,7 +116,7 @@
   - [ ] 35.3. The Long Night (Night Lords)
   - [ ] 35.4. Massacre (Night Lords)
   - [ ] 35.5. Brotherhood of the Moon (White Scars)
-  - [ ] 35.6. Inheritor (Word Bearers)
+  - [x] 35.6. Inheritor (Word Bearers)
   - [ ] 35.7. Vorax (Mechanicum)
   - [ ] 35.8. Ironfire (Iron Warriors)
   - [ ] 35.9. Red-Marked (Ultramarines)
@@ -319,7 +319,7 @@
 - [ ] 110. The Nine (Mechanicum)
 - [ ] 111. The Serpent's Dance
 - [ ] 112. The Shel'tain Affair
-- [ ] 113. Visage (Word Bearers)
+- [x] 113. Visage (Word Bearers)
 - [ ] 114. Two Metaphysical Blades (Space Wolves, Custodes)
 - [ ] 115. Primacy (Emperor's Children)
 - [ ] 116. Alone (Raven Guard)
