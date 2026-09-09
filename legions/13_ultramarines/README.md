@@ -11,6 +11,7 @@
 - [ ] 16.1. Rules of Engagement (Age of Darkness)
 - [ ] 19. Know No Fear
 - [ ] 24. Betrayer
+- [ ] 25.1. The Shards of Erebus
 - [ ] 25.2. Calth That Was (Mark of Calth)
 - [ ] 25.3. Dark Heart (Mark of Calth)
 - [ ] 25.4. The Traveller (Mark of Calth)
