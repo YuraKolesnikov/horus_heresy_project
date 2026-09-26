@@ -60,6 +60,7 @@ Shadow Crusade
 
 Before the Siege of Terra
 - [ ] 51. Slaves to Darkness
+- [x] 113. Visage
 
 After Siege of Terra
 - [ ] 143.2. Fulgurite (On Terra)
