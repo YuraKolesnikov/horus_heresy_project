@@ -15,12 +15,12 @@ Sor Talgron located in Solar System with 4 companies, guarding Terra and playing
 ## Reading List
 
 UPDATE - Читать только эти
-- [ ] 8. Battle for the Abyss
+- [x] 8. Battle for the Abyss
 - [ ] 25.1. The Shards of Erebus
-- [ ] 35.6. Inheritor
+- [x] 35.6. Inheritor
 - [ ] 51. Slaves to Darkness
-- [ ] 84. Zardu Layak: The Crimson Apostle
-- [ ] 113. Visage
+- [x] 84. Zardu Layak: The Crimson Apostle
+- [x] 113. Visage
 - [ ] 123. The Revelation of the Word
 
 
@@ -32,7 +32,7 @@ Great Crusade and Heresy Start
 - [x] 14. The First Heretic (Monarchia, Pilgrimage, Dropsite Massacre)
 - [x] 10.3. Scions of the Storm (Shortly after Monarchia)
 - [x] 35.2. Aurelian (Pilgrimage)
-- [ ] 8. Battle for the Abyss
+- [x] 8. Battle for the Abyss
 - [ ] 90. Dropsite Massacre
 
 Shadow Crusade
@@ -54,7 +54,7 @@ Shadow Crusade
 - [ ] 25.8. Unmarked
 - [ ] 37.8. The Purge
 - [ ] 46. Ruinstorm
-- [ ] 35.6. Inheritor
+- [x] 35.6. Inheritor
 - [ ] 123. The Revelation of the Word
 - [x] 52.6. Children of Sicarus (Kor Phaeron gets an Athame)
 
