@@ -1,8 +1,15 @@
+# White Scars
+
 ## Legion Structure
 
-## Legion Traits
+## Legion Stratagems
 
 ## Legion Heraldry and Colors
+
+## Legion Chronicles
+
+### Dawn of Horus Heresy
+At the Heresy start, Horus preparing for Istvaan III atrocities, couldn’t contact White Scars due to them operating too close to Terra.
 
 ## Character Candidates
 

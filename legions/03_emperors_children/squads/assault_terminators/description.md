@@ -9,7 +9,7 @@
 **Helmets:** Emperor's Children Artificer / Tartaros  
 **Pauldrons:**
 **Armour:** Tartaros Terminator  
-**Weapons:** Volkite Charger / Volkite Culverin + Power Sword / Thunder Claws / Power Fist  
+**Weapons:** Volkite Charger / Volkite Culverin + Power Sword / Lightning Claws / Power Fist  
 **Distinctive:**
 
 ## Notes

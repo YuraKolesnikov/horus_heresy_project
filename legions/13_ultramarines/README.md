@@ -1,9 +1,19 @@
-## Legion Structure
+# Ultramarines
 
-## Legion Traits
+## Legion Structure
+...Ultramarines had already been the first to breach the mark of 100,000 Space Marines...
+
+## Legion Stratagems
+
+## Legion Armory
 
 ## Legion Heraldry and Colors
 - This one’s armour, like the craft it emerged from, was a deep and beautiful cobalt, trimmed with bronze so polished it gleamed close to gold. Its eyes were slanted red slits in a stoic facemask.
+
+## Legion Chronicles
+
+### Dawn of Horus Heresy
+He (Horus) commanded the Primarchs Lion El’Jonson, Sanguinius and Roboute Guilliman to muster their Legions in preparation for a series of missions in the Signus Cluster and Veridian systems, each in dangerous and cut-off regions of space.» (While preparing for striking Istvaan III)
 
 ## Character Candidates
 

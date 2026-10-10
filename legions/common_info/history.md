@@ -1,0 +1,7 @@
+## Dawn of Astartes
+
+The first warriors of the Legiones Astartes went to war in grey armour, unadorned save for the Emperor's thunder strike symbol. The armour they wore was not new, but the same partially powered armour that had evolved o n Old Earth and was worn by the elite of both the Emperor's armies and the techno-barbarian tribes that had fought against him. 
+
+Some of this 'Thunder Armour', first named for the Thunder Regiments that were the Legions forebears, was newly forged, but the Emperor's warsmiths also took or cannibalised many suits from the armouries and corpses of conquered foes. As if to mark a break from the wars of the past the armour was cast in storm cloud grey, and bore only the thunderbolt and lightning marks of Imperial unity.
+
+Over time Legions gained their own marks of distinction and character, and names — Emperor-given in some cases — came to replace numbers, with many Space Marine companies seeking to single themselves out from their brother Legions. Battle honours were accumulated and the effect of each Legion’s character worked upon them, so that as the Legions expanded to conquer the galaxy, storm cloud grey became granite, silver, viridian, iron, sable, gold, ocean, ash or ice, and by the time of the Triumph at Ullanor, the grey Legions of unity were gone, lost to history.

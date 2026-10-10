@@ -9,7 +9,7 @@
 **Helmets:** Cataphractii  
 **Pauldrons:**
 **Armour:** Cataphractii Terminator  
-**Weapons:** Thunder Claws / Power Axe / Power Sword / Chainaxe / Chainsword  
+**Weapons:** Lightning Claws / Power Axe / Power Sword / Chainaxe / Chainsword  
 **Distinctive:**
 
 ## Notes

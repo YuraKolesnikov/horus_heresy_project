@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Artificer Power Armor  
+**Weapons:** Sniper Rifle + Charnabal Broadsword  
 **Distinctive:**
 
 ## Notes

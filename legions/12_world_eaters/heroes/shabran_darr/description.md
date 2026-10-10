@@ -8,7 +8,7 @@
 **Helmet:**
 **Pauldrons:**
 **Armour:** 
-**Weapons:** 
+**Weapons:** Master-crafted Chainaxe + Bolt Pistol
 **Distinctive:**
 
 ## Notes
