@@ -7,8 +7,9 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Wargear:** Nuncio-Vox  
+**Armour:** Artificer Armor  
+**Weapons:** Thunder Hammer + Volkite Serpenta  
 **Distinctive:**
 
 ## Notes

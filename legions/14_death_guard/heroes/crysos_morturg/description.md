@@ -8,7 +8,7 @@
 **Helmet:**
 **Pauldrons:**
 **Armour:** 
-**Weapons:** 
+**Weapons:** Power Sword + Combi-Flamer + Bolt Pistol  
 **Distinctive:**
 
 ## Notes

@@ -1,8 +1,14 @@
+# Iron Warriors
+
 ## Legion Structure
 
-## Legion Traits
+## Legion Stratagems
+
+## Legion Armory
 
 ## Legion Heraldry and Colors
+
+## Legion Chronicles
 
 ## Character Candidates
 

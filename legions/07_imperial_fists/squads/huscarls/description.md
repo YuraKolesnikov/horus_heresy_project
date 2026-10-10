@@ -9,7 +9,7 @@
 **Helmets:** Cataphractii  
 **Pauldrons:**
 **Armour:** Cataphractii Terminator  
-**Weapons:** Combi-Bolter / Volkite Charger / Volkite Culverin + Power Sword / Thunder Claws / Power Fist  
+**Weapons:** Combi-Bolter / Volkite Charger / Volkite Culverin + Power Sword / Lightning Claws / Power Fist  
 **Distinctive:** Black armor
 
 ## Notes

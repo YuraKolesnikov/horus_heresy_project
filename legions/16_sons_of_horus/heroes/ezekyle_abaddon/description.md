@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Justaerin Terminator Armor  
+**Weapons:** Master-crafted Power Fist, Combi-Bolter  
 **Distinctive:**
 
 ## Notes
