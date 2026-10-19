@@ -1,8 +1,19 @@
+# Raven Guard
+
 ## Legion Structure
 
-## Legion Traits
+## Legion Stratagems
+
+## Legion Armory
 
 ## Legion Heraldry and Colors
+
+## Legion Chronicles
+
+### Istvaan System Compliance
+Brought Istvaan III to Compliance under Corax command.
+
+The black-hulled strike cruisers and gunships of XIXth Legion attacked without warning from the planetary night, systemically destroying Istvaan III’s limited military infrastructure and taking charge of its seats of governance, turning senate into bombed-out ruin and those that had led their world to deny the Imperial Truth, were either dead or in chains.
 
 ## Character Candidates
 

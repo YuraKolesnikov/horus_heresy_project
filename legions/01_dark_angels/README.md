@@ -1,8 +1,16 @@
+# Dark Angels
+
 ## Legion Structure
 
 ## Legion Traits
 
 ## Legion Heraldry and Colors
+
+## Legion Chronicles
+
+### Dawn of Horus Heresy
+He (Horus) commanded the Primarchs Lion El’Jonson, Sanguinius and Roboute Guilliman to muster their Legions in preparation for a series of missions in the Signus Cluster and Veridian systems, each in dangerous and cut-off regions of space.» (While preparing for striking Istvaan III)
+
 
 ## Character Candidates
 

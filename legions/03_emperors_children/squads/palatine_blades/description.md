@@ -9,7 +9,7 @@
 **Helmets:** MK4
 **Pauldrons:**
 **Armour:** MK4
-**Weapons:** Charnabal Sabre / Power Lance + Bolt Pistol
+**Weapons:** Charnabal Sabre / Power Lance / Power Sword + Bolt Pistol
 **Distinctive:**
 
 ## Notes
