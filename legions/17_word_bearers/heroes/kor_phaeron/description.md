@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
+**Armour:** Terminus Consolaris armour  
+**Wargear:** Lightning claws, Digi-flamer  
 **Distinctive:**
 
 ## Notes

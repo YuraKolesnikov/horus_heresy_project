@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Arificer armour  
+**Weapons:** Power sword, Bolter, Bolt Pistol  
+**Distinctive:** Legion Standard  
 
 ## Notes

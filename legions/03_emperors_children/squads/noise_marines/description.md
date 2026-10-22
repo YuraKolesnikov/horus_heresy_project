@@ -9,7 +9,10 @@
 **Helmets:** Helmetless / MK4  
 **Pauldrons:**
 **Armour:** MK4  
-**Weapons:** Blastmaster / Kakophoni / Sonic Blaster  
+**Wargear:* The Cacophony, Bolt Pistol, Chainsword or Combat knife
+**Additional:**
+  Blastmaster / Sonic Blaster  
+  Power Weapon / Power Fist  
 **Distinctive:**
 
 ## Notes

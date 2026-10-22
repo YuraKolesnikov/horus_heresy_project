@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer armour  
+**Weapons:** Master-crafted Thunder hammer, Archaeotech pistol, Sonic shrieker  
+**Distinctive:** Iron Halo  
 
 ## Notes

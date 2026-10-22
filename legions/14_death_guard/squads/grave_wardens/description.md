@@ -2,14 +2,17 @@
 
 **Tier:** Elite  
 **Role:** Terminators  
-**Composition:** 5x Grave Wardens  
+**Composition:** 1x Chem-Master, 4x Grave Wardens  
 **Description:** 
 
 ## Appearance
 **Helmets:** Death Guard Artificer helmet / Cataphractii  
 **Pauldrons:**
 **Armour:** Cataphractii Terminator  
-**Weapons:** Phosphex Incinerator / Alchem Weapons  
+**Wargear:** Assault grenade launcher with toxin grenades, Power fist, Death cloud  
+**Additional:**
+  Heavy flamer with chem-munitions / Combi-weapon
+  Chainfist
 **Distinctive:**
 
 ## Notes

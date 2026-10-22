@@ -4,6 +4,12 @@
 
 ## Legion Stratagems
 
+### Istvaan V
+Iron Warriors made landfall directly behind the rearmost Imperial Army positions at the edge of the plain, and immediately began to deploy armoured bastions and defence lines, binding their own customized landers and siege vehicles into an impregnable fortification with frightening speed. Spreading away, fresh waves of the new Legions arrived, creating tertiary dropsites of their own and forming up to battle.  
+
+..From behind the steel-clad emplacements of the Iron Warriors, the vaunted artillery of IVth Legion spoke, laying waste to the stunned Imperial Army battalions.  
+
+
 ## Legion Armory
 
 ## Legion Heraldry and Colors

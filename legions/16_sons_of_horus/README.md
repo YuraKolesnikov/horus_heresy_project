@@ -78,6 +78,14 @@ Horus launched simultaneous attack with Mortarion, sending Abaddon and Justaerin
 
 The Luna Wolves lacked nothing for courage in the face of their hateful foe, but they were hopelessly outgunned and outnumbered, and their ammunition low. Some sought to fight free and scatter if they could, for on this day survival itself was a great victory against fearful odds. Others, some injured, cut off or simply too tired and bitter in spite to retreat, stood their ground before the onslaught and brought time for their brothers with their lives… Siren Hold fell, but hundreds managed to escape.
 
+Heavily engaged on the surface of Istvaan III, it is estimated that some 30 000 of the Sons of Horus Legionaries were dead in the aftermath of that battle. The Warmaster was deliberately cautious with the use of his Legion during the Dropsite Massacre. In this it is thought that he hoped perhaps to preserve as much of the Sons of Horus as possible for the intended push on Terra that was planned to follow, or perhaps he simply meant to have the others blood themselves in his cause.  
+
+During the course of the first wave of the attack, the Sons of Horus contingent fought on the defensive, limiting themselves to the core and the most heavily defended bastions, and driving the Imperial Army before them into Loyalists’ guns. There was, however, one notable exception to this; their Reaver and assault companies who deployed to counter the strike units of the Raven Guard in the maze of ravines and rock falls that flanked the walls of the Urgall Depression.  
+
+### Istvaan V
+..More Traitor troops appeared; Sons of Horus elite, Reavers and Justaerin Terminators, led by feared Abaddon, counter-charged across the battle lands with unremitting savagery..
+
+
 ## Character Candidates
 
 ## Reading List

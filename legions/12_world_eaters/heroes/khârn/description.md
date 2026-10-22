@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer armour  
+**Wargear:** The Cutter, Plasma pistol  
+**Distinctive:** Iron Halo  
 
 ## Notes

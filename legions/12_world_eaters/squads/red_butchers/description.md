@@ -9,7 +9,9 @@
 **Helmets:** 
 **Pauldrons:**
 **Armour:** Cataphractii Terminator  
-**Weapons:** Power Axe / Power Fist / Chainaxe / Chainfist  
+**Wargear:** Power Axe, Combi-bolter   
+**Additional:**  
+  Second Power axe / Power fist / Chainaxe / Chainfist / Thunder hammer  
 **Distinctive:**
 
 ## Notes

@@ -5,10 +5,10 @@
 **Description:** First Captain  
 
 ## Appearance
-**Helmet:**
+**Helmet:** Death Guard Artificer Deathshroud helmet  
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer Cataphractii-Deathshroud armour  
+**Wargear:** Master-crafter Deathshroud power scythe, Hand-flamer with chem-munitions, Rad grenades  
+**Distinctive:** Nuncio-vox  
 
 ## Notes

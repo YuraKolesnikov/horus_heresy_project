@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer armour  
+**Wargear:** Darkstar Falling, Combi-flamer, Bolt pistol  
+**Distinctive:** Iron halo  
 
 ## Notes

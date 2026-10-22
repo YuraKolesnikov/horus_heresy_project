@@ -71,7 +71,15 @@ With the support of Legio Mortis Titans, Death Guard started storming trenches a
 
 Some of the alleged traitors after two months of warfare turned their guns, cannons and tanks against traitor Death Guard and World Eaters. Chaotic battle unraveled in which Durak Rask and his command squad was slain by Crysos Morturg Destroyer Squad. Mortarion was injured by plasma shot from loyalist tank.
 
-When, after two months, storms finally settled down, Mortarion poured his Legion’s fresh companies into the area loyalist Death Guard legionaries were situated in. Salvaged Malcador tanks were no match against Mortarion’s Fellblade squadrons and Legio Mortis titans. With full control of battlefield Death Guard came in such density, they marched on battlefield shoulder to shoulder.
+When, after two months, storms finally settled down, Mortarion poured his Legion’s fresh companies into the area loyalist Death Guard legionaries were situated in. Salvaged Malcador tanks were no match against Mortarion’s Fellblade squadrons and Legio Mortis titans. With full control of battlefield Death Guard came in such density, they marched on battlefield shoulder to shoulder.  
+With the conclusion of the bitter fighting on Istvaan III, it is estimated Mortarion’s Legion had been reduced by well over 25 000 casualties, including both the stubborn Terran Loyalists and Mortarion’s sons of Barbarus. It is believed that protracted fighting during the Istvaan III betrayal has exacted a heavy toll on the Death Guard’s armoured divisions, many of which had been amongst the suspected Loyalists.  
+
+### Istvaan V
+On the left flank great clouds of poisonous fog swept across the trenches, dissolving flesh through the slightest breach in armor, and by the choked-screams elicited by such ugly deaths was the Reaper Mortarion heralded.  
+
+With arcing sweeps of his scythe, the Primarch of the Death Guard cut through the Salamanders in his path and not even the stalwart Firedrakes could stop his bleak progress..  
+
+During the action, the Death Guard made extensive use of surprise attacks from concealed positions, mines, alchemical weaponry and heavy sustained close-range fire, principally against the Salamanders Legion, and were met in resolve and fury by Vulkan’s Legion, incurring massive casualties on both sides.  
 
 ## Character Candidates
 

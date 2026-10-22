@@ -85,6 +85,16 @@ The column found the Palace staunchly and expertly defended by the loyalist Empe
 
 Again and again Eidolon’s Emperor’s Children attempted to take the Palace only to be hurled back by Captain Saul Tarvitz and his warriors, displaying implacable resort and tactical excellence in their defence. And with the loyalist Emperor’s Children fought the mighty Ancient Rylanor - undying icon of past glory and honour the traitors had so hatefully cast aside.
 
+### Istvaan V
+The Legion of Fulgrim begin the battle of Istvaan V in a much depleted, albeit transformed, state, being already in the process of becoming something as far removed from what they had once been as could be readily imagined at the time. No reliable account exists of the fatalities suffered by the Legion during the excision of the Loyalist elements, but it is believed to have been proportionally high.  
+
+Evidence indicates that much of the preparations for the defence of the Urgall Depression fell to the Primarch of the Emperor’s Children at the Warmaster’s direct command, with the Emperor’s Children themselves charged with manning the central outermost defence lines where the fighting would be at its fiercest during the initial Loyalist attack. When the Loyalists came to attack, they were met not just with fortified xenos ruins, but cunningly interwoven fields of fire, lethal kill zones, interlocking trench works, and hidden approaches.  
+
+Closer to the fortress-line the enemy resistance stiffened, and in the shadow of the Traitor’s guns, the Iron Hands first encountered Legionaries of the Emperor’s Children over whom the shocking and nightmarish change had been wrought. Their once perfect panoply of war was now defaced and degraded, human skins hung about them like carnival decorations, and upon their own flesh they had visited terrible mutilations and how they howled ecstatically even as they were blown into pieces. Among them were others, each bearing the strange sonic weapons whose discordant notes were able to rend the ground and split the air, and kill even those protected by the Terminator armor.  
+
+“..Emperor’s Children, but not as I’d remembered them. They’d changed, twisted. Their armor was smeared with soot and dried blood, and some of them had necklaces of bones and trophies like tribal head-hunters. They screamed at us, laughed even as we smashed through them, you could even hear it above the gunfire - the laughter - amped through their helms somehow, it sounded wrong.. Insane”  
+
+
 ## Character Candidates
 
 ## Reading List

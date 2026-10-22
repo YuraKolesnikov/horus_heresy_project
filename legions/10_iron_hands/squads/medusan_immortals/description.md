@@ -9,7 +9,10 @@
 **Helmets:** MK3  
 **Pauldrons:**
 **Armour:** Hardened MK3  
-**Weapons:** Graviton Gun / Lascutter / Volkite Charger / Flamer / Melta Gun + Boarding Shield  
+**Wargear:** Boltgun, Bolt pistol, Boarding Shield  
+**Additional:**
+  Volkite Charger / Flamer / Meltagun / Graviton gun / Lastcutter / Plasma pistol  
+  Power Weapon / Power Fist / Thunder hammer  
 **Distinctive:**
 
 ## Notes

@@ -6,10 +6,13 @@
 **Description:** 
 
 ## Appearance
-**Helmets:** Salamanders Artificer helmet / Tartaros  
+**Helmets:** Salamanders Artificer helmet / Cataphractii / Tartaros  
 **Pauldrons:**
-**Armour:** Tartaros  
-**Weapons:** Storm Shield + Thunder Hammer  
+**Armour:** Cataphractii / Tartaros Terminator armour  
+**Wargear:** Combi-bolter, Power weapon  
+**Additional:**
+  Combi-flamer / Combi-melta  
+  Power fist / Thunderhammer / Storm shield  
 **Distinctive:**
 
 ## Notes

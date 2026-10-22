@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer armour  
+**Weapons:** Master-crafted Nostraman chainglaive, Bolt pistol  
+**Distinctive:** Iron halo  
 
 ## Notes

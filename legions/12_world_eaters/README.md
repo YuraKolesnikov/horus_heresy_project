@@ -64,6 +64,11 @@ After the Istvaan III bombardment, Angron took matters in his hands and descende
 
 "Shabran Darr, the World Eater the others called 'White Eyes' was with us, with six of his brother berserkers, ‘Revengers' they called themselves, armour burned black and plastered with blood and bone trophies like some madman's nightmare of what a Legiones Astartes might be..." (Crysos Morturg testimony)
 
+### Istvaan V
+As if sensing the dangerous momentum the Loyalists were gaining, the Traitor forces surged to counter-assault, and the Traitor Primarchs took to the field. Angron, blood-hungry and roaring like a beast led the charge which split the Loyalists like hammer-driver wedge, pushing between the Iron Hands and Raven Guard with his World Eaters in great slaughter, unleashing gore splattered Terminators with great power axes chained in their hands to rampage freely through the tangle of ravens, caring not who they killed, friend or foe.  
+
+## Names
+- Terminator Sergeants - Secutor-Sergeant
 
 ## Character Candidates
 

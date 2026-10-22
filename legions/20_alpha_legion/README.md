@@ -10,6 +10,9 @@
 
 ## Legion Chronicles
 
+### Istvaan V
+..And without warning, the Alpha Legion were in among the apothecarion, murdering with ruthless efficiency, while their fast-moving armour and mechanized squads encircled the Salamanders.  
+
 ## Character Candidates
 
 ## Reading List

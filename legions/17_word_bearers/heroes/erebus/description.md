@@ -7,8 +7,8 @@
 ## Appearance
 **Helmet:**
 **Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Armour:** Artificer armour  
+**Wargear:** Master-crafted power maul  
+**Distinctive:** Iron halo  
 
 ## Notes
