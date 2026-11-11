@@ -3,6 +3,7 @@
 ## Legion Traits
 
 ## Legion Heraldry and Colors
+Brynngar was festooned with trophies and fetishes: wolf’s teeth and claws, and a necklace of uncut gemstones, polished pebbles carved with runes. If he were to go to war at last against his brother Astartes then he would do so in his full regalia. Let them witness the majesty and savage power of the sons of Russ in their most feral aspect before they were torn asunder for their treachery.  
 
 ## Character Candidates
 
