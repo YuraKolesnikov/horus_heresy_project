@@ -1,5 +1,29 @@
-## Cataphractii Terminator Squad
+## Legion Terminator Squad
+Unit Composition:
+- 4 Legion Terminators
+- 1 Legion Terminator Sergeant
 
-## Tartaros Terminator Squad
+Wargear:
+- Terminator Armor
+- Combi-bolter
+- Power Weapon
 
-## Saturnine Terminator Squad
+Additional Weapons:
+- Heavy Flamer
+- Reaper Autocannon
+- Plasma Blaster
+- Volkite Charger
+- Volkite Serpenta
+
+Additional Melee Weapons:
+- Power Fist
+- Lightning Claw
+- Chainfist
+- Thunder Hammer
+
+
+### Cataphractii Terminator Squad
+
+### Tartaros Terminator Squad
+
+### Saturnine Terminator Squad

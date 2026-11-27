@@ -3,13 +3,13 @@
 **Tier:** Line  
 **Role:** Terminators  
 **Composition:** 1x Captain, 4x Terminators  
-**Description:** Melee Terminators in Tartaros Terminator armor  
+**Description:** Melee Terminators in Tartaros Terminator armour  
 
 ## Appearance
-**Helmets:** Emperor's Children Artificer / Tartaros  
-**Pauldrons:**
+**Helmet:** Emperor's Children Artificer / Tartaros  
+**Pauldrons:**  
 **Armour:** Tartaros Terminator  
-**Weapons:** Volkite Charger / Volkite Culverin + Power Sword / Thunder Claws / Power Fist  
-**Distinctive:**
+**Weapons:** Volkite Charger / Volkite Culverin + Power Sword / Lightning Claws / Power Fist  
+**Distinctive:**  
 
 ## Notes

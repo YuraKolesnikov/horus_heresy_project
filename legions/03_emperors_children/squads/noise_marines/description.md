@@ -6,10 +6,13 @@
 **Description:** Slightly corrupted Noise Marines with Sonic Weapons  
 
 ## Appearance
-**Helmets:** Helmetless / MK4  
-**Pauldrons:**
+**Helmet:** Helmetless / MK4  
+**Pauldrons:**  
 **Armour:** MK4  
-**Weapons:** Blastmaster / Kakophoni / Sonic Blaster  
-**Distinctive:**
+**Weapons:** The Cacophony, Bolt Pistol, Chainsword or Combat knife  
+**Additional:**  
+  Blastmaster / Sonic Blaster
+  Power Weapon / Power Fist
+**Distinctive:**  
 
 ## Notes

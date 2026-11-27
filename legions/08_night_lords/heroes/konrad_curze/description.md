@@ -1,14 +1,52 @@
 # Konrad Curze
 
-**Rank:** 
-**Title:** 
-**Description:**
+**Rank:**  
+**Title:**  
+**Description:**  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:**  
+**Weapons:**  
+**Distinctive:**  
 
 ## Notes
+
+Horus ordered Konrad Curze's Night Lords to raid strategic targets in the Eastern Fringe and Thramas Sector, drawing the Dark Angels into prolonged conflict (the notes report uncertainty over Horus' trust in Curze).
+
+### The Night Haunter and the Thramas Crusade
+
+The Madness of Konrad Curze and the Fracturing of the VIII Legion
+
+By the outbreak of the Heresy, Konrad Curze had already destroyed Nostramo, suffered incarceration on Terra and assaulted his brother Rogal Dorn. The chronicle traces his tragedy to the flawed gift of foresight inherited from the Emperor. Whereas the Emperor could perceive multiple possible futures and navigate between them, Curze saw only a single course of events leading towards failure and death. Neither his achievements during the Great Crusade nor his escape from the horrors of his childhood could alter these visions. By the Crusade's final years he stood on the brink of insanity. His motives for joining Horus remain uncertain: he may have sought to escape the fate he foresaw, or to drown his visions in bloodshed. At the beginning of the Thramas campaign, he was a diminished version of his former self, increasingly neglecting his responsibilities and allowing individual warlords to consolidate their own power.
+
+Originally, the terror employed by the VIII Legion had served a calculated military purpose, breaking the enemy's will before large-scale warfare became necessary. As recruits drawn from the criminal underclasses of Nostramo and neighbouring worlds came to dominate its ranks, however, terror increasingly became an end in itself. The Legion's strict hierarchy gave way to a loose association of warbands and gangs. Two informal factions emerged: warriors who remembered the Legion's former purpose and wished to preserve both it and its Primarch, and those who sought freedom to indulge their brutality without the Night Haunter's interference. The campaign thus became a struggle for the identity of the Legion as well as for control of the Eastern Fringe. Among the leading figures of the latter faction was Nakrid Thole, a charismatic Nostraman warlord and outspoken critic of Curze who commanded a substantial following among the newer recruits.
+
+Thole's warriors led the devastation of the Thramas border worlds. These territories were defended by the Thramassi Nightwatch, regiments of the Solar Auxilia accustomed to guarding the Imperium's distant frontier. Fearing that resistance would bring destruction upon their populations, many garrisons abandoned their bases and withdrew to Thramas, leaving planetary militia and governors to fend for themselves. Some accepted the Warmaster's authority, while others concealed their equipment and disappeared among the civilian population. Within a few months, the Night Lords controlled almost half the sector, from Tsagualsa in the galactic north to the strategic crossroads world of Crucible. On Serk, the governor's refusal to deface monuments honouring loyal Legions provoked a massacre, during which Thole desecrated a statue of Dorn. Curze himself descended upon the hive world of Makator V to exact a bloody tithe from its wealthy merchants, in a grim repetition of his youth on Nostramo that failed to relieve the visions tormenting him.
+
+Savage Weapons: The Confrontation on Tsagualsa
+
+The battle at Thramas marked the beginning of the second year of the crusade according to the account. The Dark Angels held the initiative, but the Traitors still controlled numerous worlds in Thramas and almost all of Aegis. Gulgorahd remained comparatively free of Traitor influence, its surviving Bastion worlds maintaining their resistance despite extensive devastation. Pressure from the Dark Angels and the forces of Tigrus drew Traitor armies away from Gulgorahd, allowing the latter's legions to capture Parthac and strip its resources to replenish their depleted forges. The Night Lords, meanwhile, retook Yaelis. Both sides were approaching exhaustion, and the civilian population increasingly regarded the Legiones Astartes as uncontrolled instruments of destruction rather than the liberators of the Great Crusade. Trade and food distribution broke down, refugees fled their homes, and worlds cut off from Imperial protection became vulnerable to famine and xenos attacks.
+
+On Tsagualsa, Curze summoned Sevatar, Sheng, Barbatos and other favoured commanders and sent the Lion an invitation to meet him at the new Night Lords stronghold. The strategic objectives of Horus had become secondary to the Night Haunter's desire for a confrontation with his brother that might change the fate revealed by his visions. The possibility of ending a war that had already consumed thousands of his Legionaries and innumerable mortals compelled the Lion to accept, despite his expectation of a trap. Unwilling to weaken the wider Loyalist front, he took only a single Chapter and a squadron of fast ships, leaving the Invincible Reason behind. Tsagualsa lay near the southern edge of the Nostramo sector, within Traitor-controlled space. The increasingly turbulent Warp, disturbed by the Word Bearers' rituals at Calth, dispersed the squadron, though no ships were lost. The Lion arrived first aboard the strike cruiser Vehemence and waited for his forces to regroup. The Night Lords made no attempt to intercept them and instead invited the Primarch to descend to the surface.
+
+The Lion teleported to Tsagualsa accompanied only by Alajos, Praetor of the Ninth, and Corswain, with his remaining warriors standing by aboard their ships. This was the first meeting of the two Primarchs since the beginning of the Heresy. Curze used what he knew of Horus' plans and his own prophetic visions to provoke his brother, attacking the pride that underpinned the Lion's sense of duty. His central accusation was that all Primarchs were savage instruments of war, including the supposedly honourable Lord of the First Legion. It was the Lion who struck first. The honour guards joined the confrontation and the battle spread as both Legions committed their forces. The encounter degenerated into a violent, disordered struggle in which neither side achieved a meaningful strategic objective. Eventually the Night Lords dragged their severely wounded Primarch away, while the Dark Angels were forced to withdraw as more Traitor ships arrived. The Chapter that had accompanied the Lion was greatly diminished. More damaging than the physical wounds was the accusation Curze had planted in his brother's mind: the conduct of both Legions on Tsagualsa had made the distinction between them seem far less clear.
+
+A Legion Accursed
+
+The Thramas Crusade was not merely a war between the First and Eighth Legions, but a decisive stage in the internal destruction of the Night Lords. The roots of their downfall lay in their origins on Terra, in the Emperor’s obscure designs and, above all, in the nature of their Primarch. During the Heresy, the VIII Legion turned upon itself in an attempt to escape the curse it associated with Konrad Curze. Its warriors blamed the corruption of their brotherhood on influences that seemed external to its original character, yet the source of the tragedy had always been at its heart: the Night Haunter himself. The destruction of the Legion as a unified force at Thramas was only a prelude to the darker future he had foreseen.
+
+Curze had inherited a limited fragment of the Emperor’s foresight, which revealed to him a terrible possible future without granting him his father’s understanding of it. He had once tried to change that destiny through punishment, bloodshed and conquest, hoping that he could secure a place for himself and his sons in the Emperor’s future. Even Horus’ rebellion, which overturned the course of the Great Crusade, failed to alter the visions that tormented him. Convinced increasingly that his actions could make no difference, Curze entered the Thramas Crusade embittered by the apparent futility of his struggle, accepting the doom that he had once fought to avert.
+
+The Dark King: The Cheraut Affair
+
+The first recorded violent confrontation between Primarchs preceded both Isstvan V and Prospero. During the Cheraut Compliance, elements of the Emperor’s Children, Imperial Fists and Night Lords, accompanied by their respective Primarchs, fought to subjugate a particularly resistant human civilisation. Curze’s methods and his treatment of the defeated population brought him into increasingly bitter conflict with Dorn. Their dispute escalated into physical combat, leaving the Primarch of the Imperial Fists grievously injured. Witnesses were sworn to secrecy and Curze was placed under guard pending judgement by his brothers. He escaped confinement, killing those who stood in his way, and returned to Nostramo, destroying his adopted home world both as an act of defiance and an attempt to restore order to his domain. He then withdrew to the outer reaches of the Great Crusade.
+
+The Imperial authorities concealed the incident rather than openly punish a Primarch and risk undermining the unity of the Crusade. No public condemnation or punitive expedition followed, and VIII Legion detachments serving with other Expeditionary fleets were not censured. Instead, supplies to the Night Lords’ territories were cut off and Curze was effectively removed from the forefront of the Imperial advance. In the early years of M31, the Court of Terra considered this punishment complete and recalled him, granting him a place in the force assembled to confront Horus’ betrayal. The concealment of the Cheraut incident thus preserved the outward unity of the Legions while leaving its underlying tensions unresolved.
+
+A Decline Long Foreseen
+
+While his sons fought over his allegiance, Curze withdrew into his own despair. Neither the order he had imposed upon Nostramo, the attempts to master his foresight under the Emperor and his brothers, nor the slaughter committed in Horus’ service had changed his visions. The fall of his domain into corruption and the outbreak of civil war seemed to confirm what he had long feared: an age of ten thousand years of violence that would continue beyond his own death. Following the failure of his efforts in Nostramo and the opening stages of the Thramas Crusade, he secluded himself in the unfinished fortress on Tsagualsa, surrendering much of the actual conduct of the war to Thole and his allies. Their campaigns placed greater value on the death toll than on strategic achievement. Sevatar and other loyal members of his inner circle remained bound to their Primarch, awaiting his orders and trying to persuade him to return to the battlefield.
+
+The encounter with Lion El’Jonson at Tsagualsa briefly drew Curze out of his seclusion. His motives are not established in the account: he may have sought answers, attempted to warn his brother, or hoped to die at his hands and thus escape his foretold destiny. The confrontation achieved none of these possible ends. A similar pattern recurred at Sheol, where Curze confronted the Lion again and his most devoted warriors sacrificed themselves to recover their grievously wounded Primarch. Even incapacitated, he remained the central figure in the struggle between those who wished to free the Legion from his influence and those determined to restore him to his former greatness.

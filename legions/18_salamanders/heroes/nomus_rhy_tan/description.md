@@ -1,14 +1,14 @@
 # Nomus Rhy'Tan
 
-**Rank:** 
-**Title:** 
+**Rank:**  
+**Title:**  
 **Description:** Lord Chaplain  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:** Artificer armour  
+**Weapons:** Darkstar Falling, Combi-flamer, Bolt pistol  
+**Distinctive:** Iron halo  
 
 ## Notes

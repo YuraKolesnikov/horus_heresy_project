@@ -1,15 +1,21 @@
 # Laernaean Terminators
 
-**Tier:** Elite  
+**Tier:** Honoured  
 **Role:** Terminators  
-**Composition:** 5x Laernaean Terminators  
-**Description:** 
+**Composition:** 4 Lernean Terminators, 1 Harrower  
+**Description:**  
 
 ## Appearance
-**Helmets:** Alpha Legion Artificer helmet / Cataphractii  
-**Pauldrons:**
+**Helmet:** Alpha Legion Artificer helmet / Cataphractii  
+**Pauldrons:**  
 **Armour:** Cataphractii  
 **Weapons:** Combi-Bolter + Power Axe / Power Sword  
-**Distinctive:**
+**Distinctive:**  
 
 ## Notes
+
+Collection composition: 5x Laernaean Terminators
+
+Wargear: Cataphractii Terminator armour, Power axe, Volkite charger
+
+Additional weapons: Power fist, Chainfist, Plasma blaster, Heavy flamer, Conversion beamer, Master-crafted weapon

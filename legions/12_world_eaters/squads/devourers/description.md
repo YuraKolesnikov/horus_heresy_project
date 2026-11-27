@@ -1,15 +1,15 @@
 # Devourers
 
-**Tier:** Elite  
+**Tier:** Honoured  
 **Role:** Terminators  
 **Composition:** 1x Centurion, 4x Devourers  
-**Description:** 
+**Description:**  
 
 ## Appearance
-**Helmets:** Cataphractii  
-**Pauldrons:**
+**Helmet:** Cataphractii  
+**Pauldrons:**  
 **Armour:** Cataphractii Terminator  
-**Weapons:** Thunder Claws / Power Axe / Power Sword / Chainaxe / Chainsword  
-**Distinctive:**
+**Weapons:** Lightning Claws / Power Axe / Power Sword / Chainaxe / Chainsword  
+**Distinctive:**  
 
 ## Notes

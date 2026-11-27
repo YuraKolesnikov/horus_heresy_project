@@ -1,14 +1,62 @@
 # Alpharius
 
-**Rank:** 
-**Title:** 
-**Description:**
+**Rank:**  
+**Title:**  
+**Description:**  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:**  
+**Weapons:**  
+**Distinctive:**  
 
 ## Notes
+
+Horus tasked Alpharius and the Alpha Legion with harassing isolated loyalist forces throughout the southern and western Imperium, including remnants of the Thousand Sons and the White Scars near Chondax.
+
+The exact date of the Alpha Legion’s emergence as an openly recognised military force remains disputed. Some Imperial records place it shortly before the Farinatus Extermination, while others suggest it first appeared during the Third Rangdan Genocides, a discrepancy of approximately thirty sidereal years. Regardless, the XXth was the last Legion to receive official recognition and the last to reunite with its Primarch. Under its mysterious Primarch, the Alpha Legion quickly developed a reputation for exceptional discipline, organisation, and coordination. Its warriors operated with remarkable unity, prioritising collective objectives over individual achievement and combining rapid, overwhelming assaults with sophisticated sabotage, ambushes, assassinations, and psychological warfare. Despite its effectiveness, the Alpha Legion remained secretive and deliberately distant from its brother Legions, even during joint campaigns. Its preference for deception and manipulation created an atmosphere of distrust, with other Imperial forces increasingly perceiving something sinister beneath its disciplined exterior.
+
+The Alpha Legion’s name carried deliberate symbolism and possible contradictions. Although the XXth was the last Legion created, “Alpha” traditionally signified “the first” or “the beginning,” while also suggesting supremacy and ambition. Its Primarch’s name, Alpharius, reinforced this symbolism, potentially expressing the Legion’s belief in its own exceptional status. The Legion’s early use of the combined Alpha and Omega symbols, known as the Aeternus, represented unity, continuity, and indestructibility. These symbols also carried ancient associations with serpents, knowledge, power, secrecy, and deception. The Hydra eventually became the Alpha Legion’s dominant emblem, representing a mythical serpent that grew two heads for every one severed. Together, these symbols reflected the Legion’s layered identity: ambition, resilience, hidden knowledge, manipulation, and the ever-present threat of destruction.
+
+Unlike other Space Marine Legions, the Alpha Legion appeared as a fully formed military force with no clearly documented origins or recruitment history. Even the Imperialis Logistica could not determine its recruitment territories, heraldry, or actual strength. It seemingly emerged from nowhere with tens of thousands of well-equipped Legionaries and an experienced war fleet, already operating with remarkable coordination and discipline. The Legion deliberately cultivated confusion about its identity. Besides “Alpha Legion,” it operated under alternative names such as the Unbroken Chain and the more ominous Harrowing, used during the Perditian Gap Extermination. Individual Legionaries frequently identified themselves as “Alpharius” or “One of Many,” deliberately obscuring their identities and confusing allied forces. Whether this practice reflected the Legion’s emphasis on unity, an obsession with secrecy, or an effort to conceal its true numbers remains unknown.
+
+Contradictory evidence further complicates the Alpha Legion’s unusual naming practices. Some records indicate that Legionaries adopted names and code words from ancient, long-forgotten dialects. During a campaign against the Khrave at Memlock, investigators discovered that the names used by Alpha Legion warriors matched those of inhabitants of a rebellious human world the Legion had previously exterminated during the Neverlight Contagion. The purpose of this disturbing practice remains unknown, whether psychological warfare, deliberate deception, or something more obscure. Remarkably, the Legion’s extensive use of secrecy and misinformation appears to have been tolerated by both the Emperor and later Horus, although their reasons remain unclear.
+
+The Alpha Legion developed an exceptional reputation for combining covert warfare with overwhelming military force. Like the Raven Guard, they excelled at espionage, infiltration, and sabotage, but their objectives were far more ruthless. While the Raven Guard sought efficient victories with minimal unnecessary destruction, the Alpha Legion deliberately cultivated fear, confusion, and chaos, sometimes seemingly for their own sake. Their signature tactic, known as the “Harrowing,” involved systematically weakening an enemy before delivering a devastating final assault. Through deception, psychological warfare, and carefully orchestrated attacks, they manipulated opponents into vulnerable positions, stripped away their effective strength, and then struck simultaneously from multiple directions with overwhelming force. To their enemies, the Alpha Legion was a terrifying and unpredictable opponent, capable of exploiting seemingly invisible weaknesses and attacking without warning or mercy. To their allies, however, the Legion's secrecy, shifting identities, questionable loyalty, and apparent enjoyment of destruction made it deeply untrustworthy, despite its undeniable military effectiveness.
+
+The Alpha Legion rapidly accumulated victories during the Great Crusade, seeking to prove itself superior to its brother Legions. Its commanders carefully studied the strengths and weaknesses of other Legions, adopting and adapting their tactics and weaponry. However, their unnecessarily elaborate, ruthless methods and obsession with proving their superiority increasingly earned them distrust rather than admiration. Relations with other Legions deteriorated significantly, particularly because the Alpha Legion frequently disregarded orders from commanders placed above it. Alpharius repeatedly clashed with Roboute Guilliman and Mortarion, notably following the Ullanor Campaign and during the Vassalius Uprisings. Rogal Dorn and the Imperial Fists were especially hostile, regarding the Alpha Legion as dishonourable assassins unworthy of bearing the Emperor’s symbol. Following the fall of the Fortress of Jakalla, only the Emperor’s intervention prevented bloodshed between their senior officers. Even Konrad Curze condemned the Alpha Legion for concealing its sins behind lies, while the Thousand Sons reportedly avoided contact with them whenever possible. By this point, the Alpha Legion’s military successes had been overshadowed by its growing isolation and rivalry with its fellow Legions.
+
+Horus was perhaps the Alpha Legion’s closest ally among the Primarchs, recognising its unique strategic value and appreciating its ambition and unconventional tactics. The Legion also cooperated successfully with the Dark Angels and Iron Hands, demonstrating exceptional skill in coordinating campaigns with non-Astartes forces, although often sacrificing allied troops with ruthless efficiency. Its victories included suppressing rebellions, enforcing Imperial Compliance, and exterminating dangerous psyker-led raiders, xenos, and renegades. After becoming Warmaster, Horus granted the Alpha Legion considerable independence, allowing it to expand rapidly and establish several Expeditionary fleets and numerous deep-range raiding forces. These operated alongside Rogue Traders and ventured far beyond the established frontiers of the Great Crusade. However, even Horus gradually began questioning the Alpha Legion’s true motives and loyalty. Secret reports suggested that the Legion was becoming increasingly uncontrollable, perhaps even developing a dangerous obsession with elaborate warfare. Rather than pursuing efficient victories, it increasingly sought challenging battles and orchestrated unnecessarily complex, destructive operations simply to demonstrate its superiority. By the eve of the Horus Heresy, both the Warmaster and the Imperial Court feared that the Alpha Legion was slipping beyond their control.
+
+By the final years of the Great Crusade, the Alpha Legion had developed a reputation for unnecessary destruction and increasingly elaborate warfare. Imperial commanders accused it of deliberately devastating civilizations that could have been brought into Compliance through negotiation or limited military action. Some suspected this behaviour reflected a growing psychological obsession with demonstrating its superiority, although Horus publicly dismissed such accusations. With distrust mounting, the Alpha Legion appeared to withdraw towards the distant frontiers of Imperial space, expanding its covert networks and adopting increasingly numerous false identities.
+
+When the Horus Heresy began, Alpharius and approximately 50,000 Alpha Legionaries were stationed at Lucius, having recently returned from campaigns beyond the north-eastern Galactic fringe. Their apparent isolation from Imperial affairs convinced Rogal Dorn that they remained loyal, prompting him to include them in the punitive expedition against Horus at Isstvan V. In reality, the Alpha Legion had already established an extensive network of spies, infiltrators, and saboteurs throughout the Imperium. Its participation in the Dropsite Massacre exposed its allegiance to Horus, while unconfirmed accounts even suggested Alpharius had helped plan the betrayal. The Legion's clandestine operations would subsequently devastate countless Imperial worlds, causing billions of deaths. Yet even Horus never fully trusted Alpharius or believed he could control the Alpha Legion once unleashed, a suspicion that later events would prove justified.
+
+The Alpha Legion battle barge Sigma-Pythonus took position near the Pharaeon of Paramar and dispatched a Thunderhawk carrying a figure believed to be Primarch Alpharius. His imposing appearance convinced the station’s officers and Mechanicum representatives of his identity, and he was immediately escorted to the main command centre. There, the Commodore-Intendant, Magos-Shipmaster, Preceptor of Astropaths, and other senior officials knelt before him. As the station’s alarm sirens suddenly sounded, Alpharius immediately slaughtered the assembled leadership, decapitating Paramar’s command structure at the opening of the assault.
+
+### The Alpharius Enigma
+
+#### The Primarch of Paradoxes
+
+Of the Primarchs who fought in the Horus Heresy, Alpharius is among the least understood. Alpha Legion warriors repeatedly assumed his name and identity, even before allied Legions and representatives of the Imperial Court and Warmaster. Some accounts suggest that the XX Legion possessed more than one Primarch, or that Alpharius could somehow appear in multiple places simultaneously; others associate these mysteries with the three-headed hydra. Reports describe him either as indistinguishable from his Legionaries or as a towering figure in ornate hydra-decorated armour, wielding a double-headed spear. His strategic abilities were compared with those of Perturabo and Guilliman, and his extraordinary learning was accompanied by a cold, vigilant intellect. He apparently sought little fellowship with his brothers except perhaps Horus, although reports place him on Terra and Caliban at various times. His commanders enjoyed exceptional independence while remaining united in purpose, a contradiction that reflected the character of their Primarch.
+
+#### 1. The Encounter with Horus
+
+A tale circulated privately within the Imperial Court claims that Alpharius ruled a confederation of human systems. Its inferior fleet defeated an isolated Luna Wolves battleship through deception, provoking Horus into a pursuit marked by repeated ambushes. During an attack on his flagship, a lone intruder reached Horus’ command chamber and overcame his bodyguards. Rather than killing the attacker, Horus recognised him as his brother Alpharius.
+
+#### 2. The Dead World of the Mandragoran Stars
+
+A version extracted from an Alpha Legion Centurion captured by the Legio Custodes after the Fall of Seraphina places the infant Primarch on a nameless dead world near the Mandragoran Stars, amid the ruins of a civilisation destroyed before humanity arose. Alone for years, he survived its hostile environment and spectral terrors until a corsair vessel carrying renegades and alien mercenaries arrived to loot the ruins. Alpharius killed its occupants, acquired their knowledge, weapons and ship, and departed to seek his creator.
+
+#### 3. The Captive of the Slaugth
+
+One account encrypted within the suppressed Transit of the Human Soul through Strife, also called the Codex Hydra, describes Alpharius arriving on the prosperous tech-oligarchy of Bar’Savor. Before he was ten, the Slaugth invaded, captured him and subjected him to mental corruption, training him to sow discord before their predations. The Emperor eventually rescued him by attacking their immense stone vessel and spent years undoing the damage inflicted upon his son.
+
+#### 4. The Emperor’s Hidden Hand
+
+A contradictory account in the same work claims that Alpharius, or some part of him, remained behind when the other Primarchs were scattered, gravely injured and in some sense unfinished. Raised secretly by the Emperor near Terra, concealed even from His closest associates, he eventually became His covert agent and protector before departing to fulfil his destiny.
+
+#### The Unresolved Enigma
+
+Every one of these accounts is explicitly described as false. They are only a selection of the competing stories surrounding Alpharius; none establishes his true origins. Yet each may preserve a fragment of truth. The contradictions are integral to the mystery of the Primarch and his Legion, rather than inconsistencies that can be confidently resolved.

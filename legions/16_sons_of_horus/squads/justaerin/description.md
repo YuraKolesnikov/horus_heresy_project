@@ -1,15 +1,16 @@
 # Justaerin Terminators
 
-**Tier:** Elite  
+**Tier:** Honoured  
 **Role:** Terminators  
 **Composition:** 1x Praetor, 4x Justaerin  
-**Description:** 
+**Description:**  
 
 ## Appearance
-**Helmets:** MK3 / MK4 Reinforced  
-**Pauldrons:**
+**Helmet:** MK3 / MK4 Reinforced  
+**Pauldrons:**  
 **Armour:** Cataphractii Terminator  
-**Weapons:** Power Axe / Power Maul / Thunder Hammer / Thunder Claws + Combi-Bolter  
-**Distinctive:**
+**Weapons:**  Combi-Bolter  
+**Melee Weapons:** Power Axe / Power Maul / Power Fist / Thunder Hammer / Lightning Claws / Chain Fist  
+**Distinctive:**  
 
 ## Notes

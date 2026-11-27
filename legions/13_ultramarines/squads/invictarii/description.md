@@ -1,15 +1,20 @@
 # Invictarii
 
-**Tier:** Elite  
-**Role:** Despoilers  
-**Composition:** 1x Captain, 4x Invictarii
-**Description:** 
+**Tier:** Honoured  
+**Role:** Melee  
+**Composition:** 5 Invictarus Suzerains  
+**Description:**  
 
 ## Appearance
-**Helmets:** Ultramarines Artificer MK4  
-**Pauldrons:**
+**Helmet:** Ultramarines Artificer MK4  
+**Pauldrons:**  
 **Armour:** MK4  
-**Weapons:** Power Shield + Power Axe / Power Sword + Plasma Pistol / Melta Pistol / Volkite Charger
-**Distinctive:**
+**Weapons:** Legatine axe / Power axe / Power sword, Boarding shield / Power shield, Bolt pistol / Plasma pistol / Melta pistol / Volkite charger / Thunder hammer  
+**Distinctive:**  
 
 ## Notes
+
+Alternative formation: 1x Captain, 4x Invictarii.
+
+Wargear: Artificer armour, Legatine axe, Boarding shield, Bolt pistol
+Additional Weapons: Plasma pistol, Thunder hammer

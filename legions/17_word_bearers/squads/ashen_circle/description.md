@@ -3,13 +3,16 @@
 **Tier:** Elite  
 **Role:** Assault  
 **Composition:** 1x Iconoclast, 4x Incendiaries  
-**Description:** 
+**Description:**  
 
 ## Appearance
-**Helmets:** Unique  
-**Pauldrons:**
-**Armour:** Unique  
-**Weapons:** Hand Flamer / Hand Melta + Axe-Rake  
+**Helmet:** Unique  
+**Pauldrons:**  
+**Armour:** Unique Hardened armour  
+**Weapons:** Axe-Rake , Hand Flamer  
+**Additional:**  
+  Inferno pistol / Plasma pistol
+  Power axe
 **Distinctive:** Jump Pack  
 
 ## Notes

@@ -1,15 +1,17 @@
 # Pyroclasts
 
 **Tier:** Elite  
-**Role:** Terminators  
-**Composition:** 
-**Description:** 
+**Role:** Tactical Support  
+**Composition:** 1x Pyroclast Warden, 4x Pyroclasts  
+**Description:**  
 
 ## Appearance
-**Helmets:** Salamanders Artificer helmet / MK3
-**Pauldrons:**
+**Helmet:** Salamanders Artificer helmet / MK3  
+**Pauldrons:**  
 **Armour:** MK3  
-**Weapons:** Pyroclast Flame Projector + Power Fist  
-**Distinctive:**
+**Weapons:** Pyroclast Flame Projector, Combat knife  
+**Additional:**  
+  Power Weapon / Power Fist
+**Distinctive:**  
 
 ## Notes

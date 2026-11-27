@@ -1,14 +1,56 @@
 # Autek Mor
 
-**Rank:** 
-**Title:** 
+**Rank:**  
+**Title:**  
 **Description:** Iron Father of Clan Morragul  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:**  
+**Weapons:**  
+**Distinctive:**  
 
 ## Notes
+
+After Isstvan V, Autek Mor and his Clan Morragul conducted reprisals against the traitors. Arriving at Gethsamaine aboard *Red Talon*, they wrecked orbital defences and the world's infrastructure, executed collaborators and placed atomic devices beneath five major cities.
+
+Autek Mor was a Terran-born Iron Hands warlord and Iron-Father of Clan Morragul, a formation composed largely of outcasts and warriors who struggled to conform to the Legion's rigid traditions. Having earned command by killing his clan's previous leader, Mor remained an outsider even under Ferrus Manus. His clan was held in orbital reserve during the Isstvan V Dropsite Massacre, sparing most of his warriors from the initial slaughter. Arriving aboard his flagship, the Red Talon, Mor discovered the Loyalist fleet in ruins and learned of Ferrus Manus' death. Despite attempting to break through the Traitor blockade, he was ultimately forced to withdraw with his surviving ships.
+
+Unlike Shadrak Meduson, who favoured guerrilla warfare against Horus' armies, Mor developed a strategy of overwhelming retaliation. He gathered independent Loyalist forces and allowed the Traitors to conquer worlds before striking them at their most vulnerable, when their strength had been depleted by invasion. His intention was to create a devastated defensive barrier separating Traitor-held sectors from those still loyal to Terra. Mor willingly sacrificed entire populations to achieve this objective, regarding such losses as a necessary part of his ruthless calculations of war.
+
+Within a year of the Dropsite Massacre, most of the northern Imperium had fallen to Horus, while scattered Loyalist armies struggled to retreat and regroup. Against this backdrop, Autek Mor launched an independent campaign of devastating counterattacks from his flagship, the Red Talon. One of his earliest known targets was Gethsamaine Colonus in the Cyclops Cluster, which had joined the Warmaster a year earlier. Mor's Iron Hands fleet emerged from the Grail Abyss, captured key Traitor prisoners, and annihilated the planet's major cities with nuclear weapons, leaving the world uninhabitable for generations.
+
+Unlike Shadrak Meduson's covert guerrilla campaign, Mor pursued open, overwhelming destruction against worlds that had submitted to Horus. Operating without Terra's oversight, he allowed the Traitor advance to pass before striking its vulnerable rear. Although remembered as the last Loyalist to leave the Coronid Deeps, Mor never truly abandoned the region. His relentless campaign likely prevented numerous additional worlds from falling to the Warmaster.
+
+Autek Mor's growing Iron Hands force was reinforced by Imperial Fists survivors and the Agathon Solar Auxilia, while captured Traitor officers provided valuable intelligence. Interrogations revealed that Bodt, a World Eaters recruitment and muster world, remained operational. Imperial Fists reports of Mechanicum transports travelling between Sarum and Bodt reinforced Mor's suspicions that the planet was supporting a major Traitor military project. Bodt was believed to contain substantial Astartes wargear reserves and potentially thousands of uncommitted World Eaters recruits. Mor also suspected that the Sarum Mechanicum was involved in forbidden modifications to Legionary implantation and indoctrination procedures, a suspicion later proven correct.
+
+Rather than continue his usual strategy of attacking newly conquered worlds, Mor decided to strike directly at Bodt and destroy its military infrastructure before its resources could reinforce Horus. Meanwhile, Imperial commanders were attempting to organise a defensive line between Paramar and Chondax, and fragmentary records suggest that Mor may have received orders to join them. If so, he ignored those orders, remaining determined to pursue his independent campaign. Twelve days after departing Iod Binary, the Red Talon fleet emerged at the edge of the Bodt system, prepared for a full-scale assault against one of the most brutal Legions in the Imperium.
+
+Autek Mor began his assault on Bodt's capital, Tredecimmia, with an audacious plan to destroy the entire World Eaters recruitment world. As the Red Talon fleet approached, Mor identified Bodt's lone moon, which was passing unusually close to the planet along its elliptical orbit. He ordered his warships to expend their remaining high-yield void ordnance to alter the moon's trajectory by a fraction of a degree, redirecting it towards Bodt.
+
+Instead of passing the planet at a distance of 500,000 kilometres, the moon was now destined to collide with it within hours, unleashing destruction far beyond the capabilities of Mor's conventional weapons. The enormous detonation used to redirect the moon was visible from Bodt's surface, although its inhabitants had no idea that it signalled their world's impending destruction.
+
+The sight of Bodt's burning moon plunged the planet's feral gun-clans into chaos. Terrified by the approaching celestial catastrophe, they turned their weapons against one another, with some even firing at the moon itself. Autek Mor likely intended this psychological effect to neutralise the gun-clans before his invasion. Meanwhile, the Red Talon fleet divided into twelve assault squadrons and launched a precision orbital bombardment against the surface-to-orbit defences surrounding Tredecimmia, destroying entire chains of weapons emplacements within an hour.
+
+Despite the devastation, Bodt's principal defenders remained largely intact. The World Eaters overlord cadre, supported by Mechanicum Taghmata and Titan forces, were protected within subterranean fortifications and powerful void shields. Mor understood that orbital bombardment alone could not defeat such opponents, and by the third hour of the assault, he initiated a full-scale planetary landing to eliminate the surviving defenders before the moon struck.
+
+As Bodt's burning moon approached the planet, Autek Mor launched a massive planetary assault against Tredecimmia. Waves of Iron Hands and Imperial Fists drop pods descended through intense anti-aircraft fire, suffering heavy losses but establishing multiple landing zones within four hours. Simultaneously, Xiphon fighters, Storm Eagles, and Fire Raptors attacked the planet's strongest fortifications, destroying a heavily shielded bastion in the poisoned inner sea. Iron Hands and Imperial Fists Thunderhawk formations then assaulted a fortified mountain complex, fighting through hundreds of defenders before the Imperial Fists breached its subterranean command bunker and crippled the Traitors' command structure.
+
+At Tredecimmia's star port, Iron Hands Legionaries encountered World Eaters displaying extraordinary ferocity, providing the first evidence of the XII Legion's forbidden implantation experiments. The battle descended into vicious close combat before Imperial Fists reinforcements attacked the defenders from behind, although the World Eaters continued fighting to the last. Elsewhere, the Agathon Solar Auxilia struggled to contain previously unseen Traitor Mechanicum war machines equipped with powerful Warp-based shielding, losing dozens of super-heavy tanks. Frenzied gun-clans also attacked the Loyalists in overwhelming numbers, forcing Astartes Tactical Support squads to burn them down with flamers. With the star port, command bunker, and several strategic facilities neutralised, Mor initiated the decisive phase of his operation, directing attention towards the heavily defended macro-provender silos in north-western Tredecimmia, where the true purpose of his invasion would become apparent.
+
+In the fifth hour of the assault on Bodt, Autek Mor launched an operation against the heavily defended macro-provender silos near Tredecimmia. Anticipating the intervention of Legio Audax Titans, he deployed Iron Hands and Imperial Fists blocking forces north and east of the complex, including Mastodon assault transports and Mauler battle tanks. The World Eaters responded as Mor had intended, abandoning their defensive positions to attack the eastern Iron Hands force, leaving the silos' western approaches exposed.
+
+Mor then personally led the decisive strike, teleporting from the Red Talon with an elite force of Morragul Clan Gorgon Terminators, whose specialised armour technology he had managed to reproduce despite his isolation. The heavily armoured Iron Hands overwhelmed the remaining automated gun-towers supplied by the Sarum Mechanicum and advanced through the silos towards the entrance to the underground stasis chambers, the true objective of Mor's assault.
+
+Autek Mor and his Gorgon Terminators encountered unexpected resistance inside Bodt's macro-provender silos, where insect-like Mechanicum sentries detached from the surrounding structures and attacked with rad-cleansers and lightning weapons. Fighting through the mechanical defenders, the Gorgons breached the heavily fortified entrance to the underground stasis chambers. Mor then ordered his warriors to hold the entrance and descended alone, forbidding anyone to follow him regardless of what happened.
+
+Elsewhere, the World Eaters launched ferocious counterattacks using waves of rapidly indoctrinated Inductii, whose lack of experience was offset by extraordinary aggression and physical strength. More disturbingly, the Iron Hands encountered Red Butchers Terminators who were revealed to be former Loyalist World Eaters, psychologically shattered during the betrayal at Isstvan III and now incapable of distinguishing friend from foe. Their assault nearly overwhelmed the Iron Hands until Mastodon transports unleashed cyclonic melta fire, incinerating the Red Butchers alongside some of the Loyalists trapped in combat with them.
+
+As Bodt's burning moon approached its final descent, the battle for Tredecimmia grew increasingly desperate. The World Eaters defending the planet were largely composed of rapidly implanted and indoctrinated Legionaries, many reduced to uncontrollable berserkers far removed from the Emperor's original vision for the Astartes. Wearing mismatched armour manufactured by the Crimson Brotherhood of Sarum and wielding unfamiliar experimental weapons, they inflicted severe casualties on the Iron Hands and Imperial Fists. Nevertheless, the experienced Loyalist veterans adapted their tactics and continued advancing despite mounting losses.
+
+By the sixth hour, the battle had begun turning against Autek Mor's forces, while the Iron-Father remained inside the subterranean vaults beneath the macro-provender silos, pursuing an objective whose nature remained unknown. His prolonged absence endangered the entire operation as the moon drew closer to impact. The situation became critical when twelve Warhound Titans of Legio Audax emerged from the northern wastes, having bypassed or overwhelmed the Loyalist blocking forces. Their weapons devastated everything in their path as they advanced directly towards the silos, leaving only the Gorgon Terminators of Clan Morragul to oppose them. Even their formidable armour could not withstand such overwhelming firepower for long, and by the seventh hour, with planetary destruction imminent, Mor's mission appeared on the verge of failure.
+
+The destruction of Bodt in 008.M31 left the World Eaters' recruitment world a volcanic wasteland that might remain uninhabitable for centuries or eventually disintegrate entirely. Autek Mor's invasion force included over 5,000 Iron Hands, fewer than 800 Imperial Fists, 300–400 additional Loyalist Astartes, and approximately 12,000 Solar Auxilia. Opposing them were around 3,500 established World Eaters, as many as 11,000 rapidly produced Inductii, fewer than 100 Legion command personnel, and substantial Mechanicum and Titan support under Tribune Karak and the Crimson Brotherhood of Sarum.
+
+Although Mor had already guaranteed Bodt's destruction by redirecting its moon, he risked thousands of warriors to recover a mysterious stasis casket bearing the insignia of the Emperor's Terran gene-wrights. Its contents remain unknown, but some historians speculate that Mor intended to use forbidden genetic technology to transform or expand Clan Morragul beyond the established limitations of the Legiones Astartes. His true ambitions remain uncertain, reinforcing his reputation as a ruthless warlord whose power rested as much on dangerous secrets as on military strength.

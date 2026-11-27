@@ -1,14 +1,14 @@
 # Durak Rask
 
-**Rank:** 
-**Title:** 
+**Rank:**  
+**Title:**  
 **Description:** Master of Ordnance  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:** Artificer Armour  
+**Weapons:** Thunder Hammer + Volkite Serpenta  
+**Distinctive:** Nuncio-vox  
 
 ## Notes
