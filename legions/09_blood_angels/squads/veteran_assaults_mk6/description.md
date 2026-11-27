@@ -1,0 +1,15 @@
+# Veteran Assault Squad #3
+
+**Tier:** Line  
+**Role:** Assault  
+**Composition:**  
+**Description:**  
+
+## Appearance
+**Helmet:**  
+**Pauldrons:**  
+**Armour:** MK6  
+**Weapons:**   
+**Distinctive:**   
+
+## Notes
