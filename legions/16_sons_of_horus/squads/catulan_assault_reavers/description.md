@@ -1,0 +1,15 @@
+# Catulan Assault Reavers
+
+**Tier:** Honoured  
+**Role:** Assault  
+**Composition:**  
+**Description:**  
+
+## Appearance
+**Helmet:**  
+**Pauldrons:**  
+**Armour:** MK4  
+**Weapons:**  
+**Distinctive:**  
+
+## Notes

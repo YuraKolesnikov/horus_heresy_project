@@ -1,15 +1,21 @@
 # Mor Deythan
 
-**Tier:** Elite  
+**Tier:** Honoured  
 **Role:** Recon  
-**Composition:** 1x Mor Deythan Shade, 4x Mor Deythan  
-**Description:** 
+**Composition:** 4 Mor Deythan, 1 Mor Deythan Shade  
+**Description:**  
 
 ## Appearance
-**Helmets:** MK6  
-**Pauldrons:**
+**Helmet:** MK6  
+**Pauldrons:**  
 **Armour:** MK6  
 **Weapons:** Antimaterial Sniper Rifle / Nemesis Bolter + Knife / Chainsword  
-**Distinctive:**
+**Distinctive:**  
 
 ## Notes
+
+Collection composition: 1x Mor Deythan Shade, 4x Mor Deythan
+
+Wargear: Power armour, Chainsword or combat blade, Bolt pistol, Shroud bombs
+
+Additional weapons: Shotgun, Sniper rifle, Combi-weapon, Volkite charger, Flamer, Melta gun, Plasma gun, Plasma pistol, Missile launcher

@@ -1,14 +1,14 @@
 # Maloghurst The Twisted
 
-**Rank:** 
-**Title:** 
+**Rank:**  
+**Title:**  
 **Description:** Equerry of Horus  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:** Artificer armour  
+**Weapons:** Power sword, Bolter, Bolt Pistol  
+**Distinctive:** Legion Standard  
 
 ## Notes

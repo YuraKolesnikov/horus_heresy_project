@@ -1,14 +1,28 @@
 # Corvus Corax
 
-**Rank:** 
-**Title:** 
-**Description:**
+**Rank:**  
+**Title:**  
+**Description:**  
 
 ## Appearance
-**Helmet:**
-**Pauldrons:**
-**Armour:** 
-**Weapons:** 
-**Distinctive:**
+**Helmet:**  
+**Pauldrons:**  
+**Armour:**  
+**Weapons:**  
+**Distinctive:**  
 
 ## Notes
+
+Following Isstvan V, Corvus Corax escaped after a 98-day struggle, led his shattered Raven Guard to Terra and then returned to Deliverance with the remaining few thousand warriors to rebuild the Legion.
+
+When Corvus Corax assumed command of the XIXth Legion, he radically reformed its culture and combat doctrines, combining the stealth and rapid manoeuvres perfected during his rebellion on Lycaeus with the Legion’s existing strengths. He deliberately purged many of its older, ruthless Terran traditions, regarding their methods of oppression as disturbingly similar to those of his former enslavers. Several senior officers were removed from command, including Lord Arkhas Fal, who had led the Legion for three decades before Corax’s arrival. Under their Primarch, the Raven Guard refined their unconventional warfare tactics to extraordinary levels. Corax even defeated Roboute Guilliman three times in strategic simulations, employing unexpected formations and specialised troops, including early Moritat warriors. However, Guilliman adapted to these tactics, and Corax was never able to defeat him again.
+
+During its reorganisation under Corvus Corax, the Raven Guard acquired specialised technologies designed to enhance stealth and rapid deployment. These included the Shadowhawk, a modified Thunderhawk gunship equipped with advanced systems that rendered it nearly invisible to enemy sensors. The Legion also obtained the Whispercutter, a silent, gravitic aircraft capable of deploying ten Space Marines into hostile territory with minimal risk of detection. Unlike the Shadowhawk, the Whispercutter was developed by the master artificers of Kiavahr, whose technological expertise operated outside the mainstream Martian Mechanicum. Their innovations were eventually shared with Raven Guard Techmarines, although this relationship may have risked provoking the jealous authorities of Mars.
+
+The Raven Guard suffered one of their greatest setbacks when Horus, newly appointed Warmaster, ordered them to abandon their specialised operations near the Ghoul Stars and join a conventional military campaign. This decision would foreshadow the catastrophe awaiting the Legion at Isstvan V. The Akum-Sothos Cluster, previously conquered by the Luna Wolves, had fallen into rebellion due to a parasitic xenos infestation. The creatures developed inside their victims’ eye sockets, gradually taking control of their hosts and forming a collective consciousness directed by powerful individuals known as the Unsighted Kings. Determined to reclaim the worlds he had originally conquered, Horus swore to crush the rebellion regardless of the cost, setting the stage for a campaign that would prove disastrous for the Raven Guard.
+
+Horus planned a rapid, overwhelming assault against the Unsighted Kings, bringing together the Luna Wolves, Space Wolves, Iron Warriors, and Raven Guard. His objective was to eliminate the xenos leadership while preserving the Akum-Sothos Cluster’s infrastructure, proving himself worthy of his new position as Warmaster. After securing the outer worlds, Horus ordered the Raven Guard to launch a frontal assault against the heavily fortified Gate Forty-Two. Corvus Corax protested, arguing that such an attack would needlessly sacrifice his warriors. Instead, he proposed using feints to draw defenders away, allowing the other three Legions to breach the fortress more easily. Perturabo accused Corax of cowardice, and the confrontation nearly turned violent before Leman Russ intervened. Russ urged Corax to respect Horus’ authority while channeling his anger into the coming battle. Reluctantly accepting the order, Corax assigned many of his Terran-dominated companies to lead the assault, particularly those whose commanders were most willing to follow the Warmaster’s plan.
+
+The Battle of Gate Forty-Two became the Raven Guard’s darkest hour before the Dropsite Massacre. Their frontal assault suffered devastating casualties under overwhelming defensive fire, forcing Corvus Corax himself to lead the final breakthrough. Gate Forty-Two fell, allowing Horus to execute the Unsighted Kings and free the Akum-Sothos Cluster from xenos control. The victory came at a catastrophic cost. Thousands of Raven Guard, predominantly Terran veterans, were killed, while millions of civilians suffered under the parasites’ influence. The Legion was reduced to approximately 80,000 Space Marines, making it the smallest of the Legiones Astartes. The disaster permanently damaged Corax’s relationship with Horus. Enraged by the needless sacrifice of his warriors, Corax withdrew the Raven Guard from the Warmaster’s command and swore never to fight alongside him again.
+
+The Battle of Gate Forty-Two had an important political consequence for the Raven Guard. Most of the Terran officers who had served under Horus before Corax’s arrival were killed, effectively eliminating the Warmaster’s remaining influence within the Legion. Many of these veterans had also belonged to the secret warrior lodges, whose influence later helped spread rebellion throughout other Legions. Their deaths largely eradicated these organisations from the Raven Guard. Some critics accused Corax of deliberately sacrificing his Terran veterans to consolidate his authority and reshape the Legion according to his own ideals. Whether intentional or not, the outcome helped protect the Raven Guard from the internal corruption that would eventually consume many of their brother Legions.

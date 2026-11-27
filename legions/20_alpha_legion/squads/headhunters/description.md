@@ -2,14 +2,20 @@
 
 **Tier:** Elite  
 **Role:** Vigilators  
-**Composition:** 1x Headhunter Prime, 4x Headhunters  
-**Description:** 
+**Composition:** 4 Headhunters, 1 Headhunter Prime  
+**Description:**  
 
 ## Appearance
-**Helmets:** Alpha Legion Artificer helmet / MK4  
-**Pauldrons:**
+**Helmet:** Alpha Legion Artificer helmet / MK4  
+**Pauldrons:**  
 **Armour:** MK4  
 **Weapons:** Antimaterial sniper rifle / Vigilator Bolter rifle  
-**Distinctive:**
+**Distinctive:**  
 
 ## Notes
+
+Collection composition: 1x Headhunter Prime, 4x Headhunters
+
+Wargear: Power armour, Boltgun with banestrike ammunition, Bolt pistol, Power dagger, Venom spheres
+
+Additional wargear: Combi-bolter, Plasma pistol, Inferno pistol, Power fist, Power weapon

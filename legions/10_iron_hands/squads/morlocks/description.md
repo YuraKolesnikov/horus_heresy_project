@@ -1,15 +1,18 @@
 # Morlocks
 
-**Tier:** Elite  
+**Tier:** Honoured  
 **Role:** Terminators  
-**Composition:** 
-**Description:** 
+**Composition:** 1x Gorgon Hammerbearer, 4x Gorgon Terminators  
+**Description:**  
 
 ## Appearance
-**Helmets:** Gorgon
-**Pauldrons:**
-**Armour:** Gorgon Terminator
-**Weapons:** Power Axe / Omnissiah Axe / Thunder Hammer + Combi-Bolter / Volkite Charger / Volkite Culverin / Melta / Graviton Gun / Plasma Gun / Disintegrator  
-**Distinctive:**
+**Helmet:** Gorgon  
+**Pauldrons:**  
+**Armour:** Gorgon Terminator  
+**Weapons:** Combi-Bolter, Power Axe (Terminators) / Thunder hammer (Hammerbearer)  
+**Additional:**  
+  Heavy flamer / Reaper autocannon / Graviton gun / Combi-weapon
+  Lightning Claws / Power Fist
+**Distinctive:**  
 
 ## Notes
